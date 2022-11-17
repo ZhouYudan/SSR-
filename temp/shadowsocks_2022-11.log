@@ -1,0 +1,2809 @@
+[2022-11-16 17:17:55] ShadowsocksR started on port 1080
+[2022-11-16 17:18:04] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:05] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:05] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:05] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-16 17:18:05] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:05] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:05] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:06] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-16 17:18:06] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:06] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:06] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:06] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-16 17:18:06] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:07] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:07] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:18:07] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-16 17:18:07] [Error] connect to update server error
+[2022-11-16 17:18:19] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-11-16 17:18:20] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:20] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:20] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:20] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:18:31] [Info] Connect smartscreen-prod.microsoft.com:443
+[2022-11-16 17:18:31] [Info] Connect smartscreen-prod.microsoft.com:443
+[2022-11-16 17:18:31] [Info] Connect smartscreen-prod.microsoft.com:443
+[2022-11-16 17:18:32] [Info] Disconnect smartscreen-prod.microsoft.com:443
+[2022-11-16 17:18:35] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:35] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:35] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:35] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:18:45] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:45] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:45] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:45] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:18:47] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:47] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:48] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:18:48] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:19:05] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:05] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:05] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:05] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:19:05] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:06] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:19:10] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:19:10] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:19:10] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:19:10] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:19:18] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:18] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:18] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:18] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:19:19] [Info] Connect settings-win.data.microsoft.com:443
+[2022-11-16 17:19:20] [Info] Connect settings-win.data.microsoft.com:443
+[2022-11-16 17:19:20] [Info] Connect settings-win.data.microsoft.com:443
+[2022-11-16 17:19:20] [Info] Disconnect settings-win.data.microsoft.com:443
+[2022-11-16 17:19:35] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:35] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:35] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:36] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:36] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:36] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:36] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:19:36] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:19:36] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:36] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:36] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:37] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:19:41] [Debug] DNS query fail: ipv6.msftconnecttest.com
+[2022-11-16 17:19:41] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-16 17:19:41] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-16 17:19:42] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-16 17:19:42] [Info] Disconnect ipv6.msftconnecttest.com:80
+[2022-11-16 17:19:48] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:49] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:49] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:19:49] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:20:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:06] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:07] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:20:07] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:20:07] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:07] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:07] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:07] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:20:19] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:19] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:19] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:20] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:20:37] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:37] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:37] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:37] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:20:37] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:37] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:38] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:20:38] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:21:08] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:21:08] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:21:08] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-16 17:21:08] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-16 17:21:59] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:21:59] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:21:59] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:22:00] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:23:04] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:04] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:05] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:05] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-16 17:23:05] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:05] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:05] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:06] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-16 17:23:06] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:06] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:06] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:06] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-16 17:23:06] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:06] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:07] [Info] Connect raw.githubusercontent.com:443
+[2022-11-16 17:23:07] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-16 17:23:07] [Error] connect to update server error
+[2022-11-16 17:23:31] [Info] Connect api.github.com:443
+[2022-11-16 17:23:32] [Info] Connect api.github.com:443
+[2022-11-16 17:23:32] [Info] Connect api.github.com:443
+[2022-11-16 17:23:32] [Info] Disconnect api.github.com:443
+[2022-11-16 17:23:36] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:36] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:36] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:36] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:36] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:36] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:36] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:23:36] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:23:37] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:37] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:37] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:37] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:38] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:38] [Info] Connect chrome.google.com:443
+[2022-11-16 17:23:38] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:23:38] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:23:54] [Info] Direct connect assets.msn.cn:443
+[2022-11-16 17:23:55] [Info] Direct connect www.msn.cn:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Connect img-s-msn-com.akamaized.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Connect img-s-msn-com.akamaized.net:443
+[2022-11-16 17:23:55] [Info] Connect img-s.msn.cn:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Connect img-s-msn-com.akamaized.net:443
+[2022-11-16 17:23:55] [Info] Connect img-s.msn.cn:443
+[2022-11-16 17:23:55] [Info] Connect aefd.nelreports.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:55] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:56] [Info] Direct connect ts3.cn.mm.bing.net:443
+[2022-11-16 17:23:56] [Info] Disconnect img-s-msn-com.akamaized.net:443
+[2022-11-16 17:23:56] [Info] Connect img-s.msn.cn:443
+[2022-11-16 17:23:56] [Info] Connect aefd.nelreports.net:443
+[2022-11-16 17:23:56] [Info] Disconnect img-s.msn.cn:443
+[2022-11-16 17:23:56] [Info] Connect aefd.nelreports.net:443
+[2022-11-16 17:23:56] [Info] Disconnect aefd.nelreports.net:443
+[2022-11-16 17:24:02] [Info] Direct connect assets.msn.cn:443
+[2022-11-16 17:24:34] [Debug] DNS query fail: ipv6.msftconnecttest.com
+[2022-11-16 17:24:34] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-16 17:24:34] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-16 17:24:34] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-16 17:24:34] [Info] Disconnect ipv6.msftconnecttest.com:80
+[2022-11-16 17:24:51] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:24:51] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:24:51] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:24:52] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:24:52] [Info] Connect google.com:443
+[2022-11-16 17:24:52] [Info] Connect google.com:443
+[2022-11-16 17:24:52] [Info] Connect google.com:443
+[2022-11-16 17:24:52] [Info] Disconnect google.com:443
+[2022-11-16 17:26:44] [Info] Connect accounts.google.com:443
+[2022-11-16 17:26:45] [Info] Connect accounts.google.com:443
+[2022-11-16 17:26:45] [Info] Connect accounts.google.com:443
+[2022-11-16 17:26:45] [Info] Disconnect accounts.google.com:443
+[2022-11-16 17:26:45] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-11-16 17:27:01] [Debug] DNS query fail: ipv6.msftconnecttest.com
+[2022-11-16 17:27:01] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-16 17:27:01] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-16 17:27:02] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-16 17:27:02] [Info] Disconnect ipv6.msftconnecttest.com:80
+[2022-11-16 17:27:05] [Info] Connect az764295.vo.msecnd.net:443
+[2022-11-16 17:27:06] [Info] Connect az764295.vo.msecnd.net:443
+[2022-11-16 17:27:06] [Info] Connect az764295.vo.msecnd.net:443
+[2022-11-16 17:27:06] [Info] Disconnect az764295.vo.msecnd.net:443
+[2022-11-16 17:27:17] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:17] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:17] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:17] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:17] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:17] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:18] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:18] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:19] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:19] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:19] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:19] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:19] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:19] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:19] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:19] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:20] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:20] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:20] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:20] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:20] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:20] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:20] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:21] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:21] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:21] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:21] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:21] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:21] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:21] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:21] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:21] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:26] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:26] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:26] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:26] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:26] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:26] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:26] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:26] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:36] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:27:36] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:27:36] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:27:37] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-11-16 17:27:56] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:56] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:27:57] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:27:57] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:28:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:28:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:28:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:28:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:28:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:28:57] [Info] Connect chrome.google.com:443
+[2022-11-16 17:28:58] [Info] Disconnect chrome.google.com:443
+[2022-11-16 17:28:58] [Info] Disconnect chrome.google.com:443
+[2022-11-17 08:50:07] ShadowsocksR started on port 1080
+[2022-11-17 08:50:17] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:17] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:18] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:18] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-17 08:50:18] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:18] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:18] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:18] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-17 08:50:18] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:19] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:19] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:19] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-17 08:50:19] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:19] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:20] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:50:20] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-17 08:50:20] [Error] connect to update server error
+[2022-11-17 08:50:20] [Info] Connect accounts.google.com:443
+[2022-11-17 08:50:21] [Info] Connect accounts.google.com:443
+[2022-11-17 08:50:21] [Info] Connect accounts.google.com:443
+[2022-11-17 08:50:21] [Info] Disconnect accounts.google.com:443
+[2022-11-17 08:50:36] [Info] Connect clients1.google.com:443
+[2022-11-17 08:50:37] [Info] Connect clients1.google.com:443
+[2022-11-17 08:50:37] [Info] Connect clients1.google.com:443
+[2022-11-17 08:50:37] [Info] Disconnect clients1.google.com:443
+[2022-11-17 08:50:43] [Info] Connect accounts.google.com:443
+[2022-11-17 08:50:43] [Info] Connect accounts.google.com:443
+[2022-11-17 08:50:43] [Info] Connect accounts.google.com:443
+[2022-11-17 08:50:43] [Info] Disconnect accounts.google.com:443
+[2022-11-17 08:50:46] [Info] Connect accounts.google.com:443
+[2022-11-17 08:50:46] [Info] Connect accounts.google.com:443
+[2022-11-17 08:50:47] [Info] Connect accounts.google.com:443
+[2022-11-17 08:50:47] [Info] Disconnect accounts.google.com:443
+[2022-11-17 08:50:47] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-11-17 08:50:49] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:50:49] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:50:50] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:50:50] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-11-17 08:50:53] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:50:53] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:50:53] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:50:53] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-11-17 08:50:54] [Info] Connect edge.microsoft.com:443
+[2022-11-17 08:50:54] [Info] Connect edge.microsoft.com:443
+[2022-11-17 08:50:54] [Info] Connect edge.microsoft.com:443
+[2022-11-17 08:50:54] [Info] Disconnect edge.microsoft.com:443
+[2022-11-17 08:50:56] [Info] Connect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 08:50:56] [Info] Connect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 08:50:56] [Info] Connect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 08:50:56] [Info] Disconnect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 08:51:01] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:51:01] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:51:01] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:51:01] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-11-17 08:51:08] [Info] Connect www.googleapis.com:443
+[2022-11-17 08:51:08] [Info] Connect www.googleapis.com:443
+[2022-11-17 08:51:09] [Info] Connect www.googleapis.com:443
+[2022-11-17 08:51:09] [Info] Disconnect www.googleapis.com:443
+[2022-11-17 08:51:32] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:51:32] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:51:33] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:51:33] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-11-17 08:51:45] [Info] Direct connect mp.weixin.qq.com:443
+[2022-11-17 08:51:48] [Info] Connect www.googleapis.com:443
+[2022-11-17 08:51:48] [Info] Connect www.googleapis.com:443
+[2022-11-17 08:51:48] [Info] Connect www.googleapis.com:443
+[2022-11-17 08:51:48] [Info] Disconnect www.googleapis.com:443
+[2022-11-17 08:52:03] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-17 08:52:03] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-17 08:52:03] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-17 08:52:03] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-11-17 08:52:07] [Info] Connect accounts.google.com:443
+[2022-11-17 08:52:07] [Info] Connect accounts.google.com:443
+[2022-11-17 08:52:07] [Info] Connect accounts.google.com:443
+[2022-11-17 08:52:07] [Info] Disconnect accounts.google.com:443
+[2022-11-17 08:52:43] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:52:43] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:52:43] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:52:43] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-11-17 08:53:43] [Info] Connect www.googleapis.com:443
+[2022-11-17 08:53:44] [Info] Connect www.googleapis.com:443
+[2022-11-17 08:53:44] [Info] Connect www.googleapis.com:443
+[2022-11-17 08:53:44] [Info] Disconnect www.googleapis.com:443
+[2022-11-17 08:53:44] [Info] Connect accounts.google.com:443
+[2022-11-17 08:53:44] [Info] Connect accounts.google.com:443
+[2022-11-17 08:53:44] [Info] Connect accounts.google.com:443
+[2022-11-17 08:53:45] [Info] Disconnect accounts.google.com:443
+[2022-11-17 08:53:48] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-11-17 08:53:52] [Info] Connect www.bing.com:443
+[2022-11-17 08:53:52] [Info] Connect graph.microsoft.com:443
+[2022-11-17 08:53:52] [Info] Connect www.bing.com:443
+[2022-11-17 08:53:52] [Info] Connect graph.microsoft.com:443
+[2022-11-17 08:53:52] [Info] Connect edge.microsoft.com:443
+[2022-11-17 08:53:52] [Info] Connect www.bing.com:443
+[2022-11-17 08:53:52] [Info] Connect graph.microsoft.com:443
+[2022-11-17 08:53:52] [Info] Connect edge.microsoft.com:443
+[2022-11-17 08:53:52] [Info] Disconnect www.bing.com:443
+[2022-11-17 08:53:52] [Info] Disconnect graph.microsoft.com:443
+[2022-11-17 08:53:52] [Info] Connect edge.microsoft.com:443
+[2022-11-17 08:53:52] [Info] Disconnect edge.microsoft.com:443
+[2022-11-17 08:54:04] [Info] Direct connect 182.254.118.119:80
+[2022-11-17 08:54:43] [Info] Connect chrome.google.com:443
+[2022-11-17 08:54:43] [Info] Connect chrome.google.com:443
+[2022-11-17 08:54:44] [Info] Disconnect chrome.google.com:443
+[2022-11-17 08:54:44] [Info] Connect chrome.google.com:443
+[2022-11-17 08:54:44] [Info] Direct connect www.gstatic.com:443
+[2022-11-17 08:54:45] [Info] Direct connect ssl.google-analytics.com:443
+[2022-11-17 08:54:45] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 08:54:45] [Info] Direct connect ssl.gstatic.com:443
+[2022-11-17 08:54:45] [Info] Connect apis.google.com:443
+[2022-11-17 08:54:45] [Info] Direct connect fonts.gstatic.com:443
+[2022-11-17 08:54:45] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 08:54:45] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 08:54:45] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 08:54:45] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 08:54:45] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 08:54:45] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 08:54:45] [Info] Direct connect stats.g.doubleclick.net:443
+[2022-11-17 08:54:45] [Info] Connect www.google.com:443
+[2022-11-17 08:54:45] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 08:54:46] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 08:54:46] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 08:54:46] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 08:54:46] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 08:54:46] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 08:54:46] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 08:54:46] [Info] Connect scone-pa.clients6.google.com:443
+[2022-11-17 08:54:50] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-17 08:54:50] [Info] Connect optimizationguide-pa.googleapis.com:443
+[2022-11-17 08:55:13] [Info] Connect i.ytimg.com:443
+[2022-11-17 08:55:16] [Info] Disconnect i.ytimg.com:443
+[2022-11-17 08:55:16] [Info] Connect i.ytimg.com:443
+[2022-11-17 08:55:16] [Info] Connect default.exp-tas.com:443
+[2022-11-17 08:55:16] [Info] Connect update.code.visualstudio.com:443
+[2022-11-17 08:55:17] [Info] Connect marketplace.visualstudio.com:443
+[2022-11-17 08:55:17] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 08:55:17] [Info] Connect dc.services.visualstudio.com:443
+[2022-11-17 08:55:18] [Info] Connect login.microsoftonline.com:443
+[2022-11-17 08:55:18] [Info] Connect schemastore.azurewebsites.net:443
+[2022-11-17 08:55:18] [Error] connect to update server error
+[2022-11-17 08:55:18] [Info] Connect vscodeexperiments.azureedge.net:443
+[2022-11-17 08:55:18] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-17 08:55:18] [Info] Connect json.schemastore.org:443
+[2022-11-17 08:55:18] [Info] Connect json.schemastore.org:443
+[2022-11-17 08:55:19] [Info] Connect default.exp-tas.com:443
+[2022-11-17 08:55:19] [Info] Connect default.exp-tas.com:443
+[2022-11-17 08:55:19] [Info] Disconnect dc.services.visualstudio.com:443
+[2022-11-17 08:55:19] [Info] Disconnect login.microsoftonline.com:443
+[2022-11-17 08:55:19] [Info] Connect json.schemastore.org:443
+[2022-11-17 08:55:19] [Info] Connect json.schemastore.org:443
+[2022-11-17 08:55:19] [Info] Connect json.schemastore.org:443
+[2022-11-17 08:55:19] [Info] Connect json.schemastore.org:443
+[2022-11-17 08:55:19] [Info] Connect json.schemastore.org:443
+[2022-11-17 08:55:19] [Info] Connect json.schemastore.org:443
+[2022-11-17 08:55:20] [Info] Disconnect json.schemastore.org:443
+[2022-11-17 08:55:20] [Info] Disconnect default.exp-tas.com:443
+[2022-11-17 08:55:20] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 08:55:20] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 08:55:20] [Info] Disconnect default.exp-tas.com:443
+[2022-11-17 08:55:20] [Info] Disconnect json.schemastore.org:443
+[2022-11-17 08:55:20] [Info] Disconnect json.schemastore.org:443
+[2022-11-17 08:55:21] [Info] Disconnect json.schemastore.org:443
+[2022-11-17 08:55:21] [Info] Disconnect json.schemastore.org:443
+[2022-11-17 08:55:21] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 08:55:21] [Info] Disconnect schemastore.azurewebsites.net:443
+[2022-11-17 08:55:21] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 08:55:21] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 08:55:21] [Info] Disconnect vscodeexperiments.azureedge.net:443
+[2022-11-17 08:55:21] [Info] Connect vscodeexperiments.azureedge.net:443
+[2022-11-17 08:55:22] [Info] Disconnect json.schemastore.org:443
+[2022-11-17 08:55:22] [Info] Disconnect json.schemastore.org:443
+[2022-11-17 08:55:22] [Info] Disconnect json.schemastore.org:443
+[2022-11-17 08:55:22] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 08:55:24] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 08:55:24] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 08:55:32] [Info] Connect git.utapp.cn:443
+[2022-11-17 08:55:32] [Info] Connect dc.services.visualstudio.com:443
+[2022-11-17 08:55:33] [Info] Disconnect dc.services.visualstudio.com:443
+[2022-11-17 08:55:36] [Info] Disconnect git.utapp.cn:443
+[2022-11-17 08:55:36] [Info] Direct connect git.utapp.cn:443
+[2022-11-17 08:55:36] [Info] Connect translate.googleapis.com:443
+[2022-11-17 08:55:39] [Info] Disconnect translate.googleapis.com:443
+[2022-11-17 08:55:39] [Info] Connect translate.googleapis.com:443
+[2022-11-17 08:55:43] [Info] Connect secure.gravatar.com:443
+[2022-11-17 08:55:43] [Info] Connect secure.gravatar.com:443
+[2022-11-17 08:55:43] [Info] Disconnect secure.gravatar.com:443
+[2022-11-17 08:55:44] [Info] Connect google.com:443
+[2022-11-17 08:55:49] [Info] Connect apis.google.com:443
+[2022-11-17 08:55:50] [Info] Connect e2c44.gcp.gvt2.com:443
+[2022-11-17 08:55:50] [Info] Disconnect chrome.google.com:443
+[2022-11-17 08:55:50] [Info] Connect accounts.google.com:443
+[2022-11-17 08:55:51] [Info] Direct connect beacons.gvt2.com:443
+[2022-11-17 08:55:56] [Info] Disconnect e2c44.gcp.gvt2.com:443
+[2022-11-17 08:56:14] [Info] Disconnect secure.gravatar.com:443
+[2022-11-17 08:56:18] [Debug] DNS query fail: ipv6.msftconnecttest.com
+[2022-11-17 08:56:18] [Info] Connect ipv6.msftconnecttest.com:80
+[2022-11-17 08:56:19] [Info] Disconnect ipv6.msftconnecttest.com:80
+[2022-11-17 08:56:22] [Info] Connect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 08:56:27] [Info] Disconnect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 08:56:32] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 08:56:35] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:56:35] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:56:35] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 08:56:35] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 08:56:35] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 08:56:36] [Info] Direct connect passport.baidu.com:443
+[2022-11-17 08:56:37] [Info] Direct connect ss3.baidu.com:443
+[2022-11-17 08:56:37] [Info] Direct connect ss0.baidu.com:443
+[2022-11-17 08:56:37] [Info] Direct connect ss1.baidu.com:443
+[2022-11-17 08:56:37] [Info] Direct connect ss2.baidu.com:443
+[2022-11-17 08:56:44] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:56:45] [Info] Direct connect sp2.baidu.com:443
+[2022-11-17 08:56:46] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 08:56:46] [Info] Direct connect t14.baidu.com:443
+[2022-11-17 08:56:46] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 08:56:46] [Info] Direct connect b.bdstatic.com:443
+[2022-11-17 08:56:46] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 08:56:46] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 08:56:48] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 08:56:48] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 08:56:48] [Info] Direct connect t.zoukankan.com:80
+[2022-11-17 08:56:48] [Info] Direct connect www.cnblogs.com:443
+[2022-11-17 08:56:48] [Info] Direct connect common.cnblogs.com:443
+[2022-11-17 08:56:48] [Info] Direct connect common.cnblogs.com:443
+[2022-11-17 08:56:48] [Info] Direct connect t.zoukankan.com:80
+[2022-11-17 08:56:49] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 08:56:49] [Info] Direct connect t.zoukankan.com:80
+[2022-11-17 08:56:49] [Info] Direct connect api.share.baidu.com:80
+[2022-11-17 08:56:57] [Info] Direct connect t.zoukankan.com:80
+[2022-11-17 08:56:57] [Info] Direct connect common.cnblogs.com:443
+[2022-11-17 08:56:57] [Info] Direct connect www.aliyun.com:443
+[2022-11-17 08:56:57] [Info] Direct connect www.aliyun.com:443
+[2022-11-17 08:56:57] [Info] Direct connect t.zoukankan.com:80
+[2022-11-17 08:56:57] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 08:56:57] [Info] Direct connect t.zoukankan.com:80
+[2022-11-17 08:56:57] [Info] Direct connect api.share.baidu.com:80
+[2022-11-17 08:56:57] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 08:56:57] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 08:56:57] [Info] Disconnect i.ytimg.com:443
+[2022-11-17 08:56:57] [Info] Disconnect google.com:443
+[2022-11-17 08:56:57] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-11-17 08:56:57] [Info] Disconnect chrome.google.com:443
+[2022-11-17 08:56:57] [Info] Direct connect at.alicdn.com:443
+[2022-11-17 08:56:57] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 08:56:57] [Info] Direct connect beacons5.gvt3.com:443
+[2022-11-17 08:56:57] [Info] Disconnect apis.google.com:443
+[2022-11-17 08:56:57] [Info] Disconnect accounts.google.com:443
+[2022-11-17 08:56:57] [Info] Disconnect www.google.com:443
+[2022-11-17 08:56:57] [Info] Disconnect apis.google.com:443
+[2022-11-17 08:56:57] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 08:56:57] [Info] Disconnect optimizationguide-pa.googleapis.com:443
+[2022-11-17 08:56:57] [Info] Disconnect scone-pa.clients6.google.com:443
+[2022-11-17 08:56:58] [Info] Direct connect beacons.gvt2.com:443
+[2022-11-17 08:56:58] [Info] Direct connect img.alicdn.com:443
+[2022-11-17 08:56:58] [Info] Direct connect api.share.baidu.com:80
+[2022-11-17 08:56:58] [Info] Direct connect retcode.alicdn.com:443
+[2022-11-17 08:56:58] [Info] Direct connect cloud-assets.alicdn.com:443
+[2022-11-17 08:56:58] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 08:56:58] [Info] Direct connect at.alicdn.com:443
+[2022-11-17 08:56:58] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 08:56:58] [Info] Direct connect one-second-campaign.cn-hangzhou.log.aliyuncs.com:443
+[2022-11-17 08:56:58] [Info] Direct connect bridge.aliyun.com:443
+[2022-11-17 08:56:58] [Info] Direct connect log.mmstat.com:443
+[2022-11-17 08:56:58] [Info] Direct connect log.mmstat.com:443
+[2022-11-17 08:56:58] [Info] Direct connect t.zoukankan.com:80
+[2022-11-17 08:56:58] [Info] Direct connect aliyun-page.cn-hangzhou.log.aliyuncs.com:443
+[2022-11-17 08:56:59] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:56:59] [Info] Direct connect aliyun-web-tracker.cn-zhangjiakou.log.aliyuncs.com:443
+[2022-11-17 08:56:59] [Info] Direct connect page.aliyun.com:443
+[2022-11-17 08:56:59] [Info] Direct connect fecs.console.aliyun.com:443
+[2022-11-17 08:56:59] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 08:56:59] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 08:56:59] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 08:56:59] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 08:56:59] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 08:56:59] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 08:56:59] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:56:59] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:56:59] [Info] Direct connect query.aliyun.com:443
+[2022-11-17 08:56:59] [Info] Direct connect query.aliyun.com:443
+[2022-11-17 08:56:59] [Info] Direct connect t.aliyun.com:443
+[2022-11-17 08:56:59] [Info] Direct connect query.aliyun.com:443
+[2022-11-17 08:56:59] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:00] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:00] [Info] Direct connect cart.aliyun.com:443
+[2022-11-17 08:57:00] [Info] Direct connect gw.alicdn.com:443
+[2022-11-17 08:57:00] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:00] [Info] Direct connect cart.aliyun.com:443
+[2022-11-17 08:57:00] [Info] Direct connect alioth.alicdn.com:443
+[2022-11-17 08:57:00] [Info] Direct connect alioth.alicdn.com:443
+[2022-11-17 08:57:00] [Info] Direct connect alioth.alicdn.com:443
+[2022-11-17 08:57:00] [Info] Direct connect alioth.alicdn.com:443
+[2022-11-17 08:57:00] [Info] Direct connect alioth.alicdn.com:443
+[2022-11-17 08:57:00] [Info] Direct connect alioth.alicdn.com:443
+[2022-11-17 08:57:00] [Info] Direct connect query.aliyun.com:443
+[2022-11-17 08:57:00] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 08:57:01] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 08:57:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:01] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:01] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 08:57:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:01] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:02] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:02] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 08:57:02] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:02] [Info] Direct connect at.alicdn.com:443
+[2022-11-17 08:57:02] [Info] Direct connect page.aliyun.com:443
+[2022-11-17 08:57:02] [Info] Direct connect feedback.log-global.aliyuncs.com:443
+[2022-11-17 08:57:02] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:02] [Info] Direct connect feedback.log-global.aliyuncs.com:443
+[2022-11-17 08:57:02] [Info] Direct connect fecs.console.aliyun.com:443
+[2022-11-17 08:57:02] [Info] Direct connect feedback.log-global.aliyuncs.com:443
+[2022-11-17 08:57:02] [Info] Direct connect feedback.log-global.aliyuncs.com:443
+[2022-11-17 08:57:02] [Info] Direct connect feedback.log-global.aliyuncs.com:443
+[2022-11-17 08:57:02] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:04] [Info] Direct connect query.aliyun.com:443
+[2022-11-17 08:57:04] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:04] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:04] [Info] Direct connect bridge.aliyun.com:443
+[2022-11-17 08:57:04] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 08:57:04] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 08:57:08] [Info] Connect nexusrules.officeapps.live.com:443
+[2022-11-17 08:57:09] [Info] Disconnect nexusrules.officeapps.live.com:443
+[2022-11-17 08:57:14] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 08:57:16] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-11-17 08:57:21] [Info] Disconnect default.exp-tas.com:443
+[2022-11-17 08:57:22] [Info] Direct connect t.aliyun.com:443
+[2022-11-17 08:57:22] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:22] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 08:57:22] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:22] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:22] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:57:24] [Info] Disconnect marketplace.visualstudio.com:443
+[2022-11-17 08:57:24] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:24] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:24] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:24] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:24] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:57:29] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:57:31] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:57:31] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:57:31] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:57:31] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:57:32] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:57:33] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 08:57:33] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 08:57:33] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 08:57:33] [Info] Direct connect t14.baidu.com:443
+[2022-11-17 08:57:33] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 08:57:33] [Info] Direct connect t8.baidu.com:443
+[2022-11-17 08:57:33] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 08:57:33] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 08:57:33] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 08:57:38] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 08:57:38] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 08:57:38] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 08:57:38] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 08:57:38] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 08:57:39] [Info] Direct connect dup.baidustatic.com:443
+[2022-11-17 08:57:39] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 08:57:39] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 08:57:39] [Debug] DNS query fail: event.csdn.net
+[2022-11-17 08:57:39] [Info] Connect event.csdn.net:443
+[2022-11-17 08:57:39] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 08:57:40] [Info] Direct connect cpro.baidustatic.com:443
+[2022-11-17 08:57:40] [Info] Direct connect img-home.csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect zz.bdstatic.com:443
+[2022-11-17 08:57:40] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect pos.baidu.com:443
+[2022-11-17 08:57:40] [Info] Direct connect sofire.bdstatic.com:443
+[2022-11-17 08:57:40] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-11-17 08:57:40] [Info] Direct connect profile-avatar.csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect silkroad.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect kunpeng.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect devpress-api.csdn.net:443
+[2022-11-17 08:57:40] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 08:57:40] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect gsp0.baidu.com:443
+[2022-11-17 08:57:40] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 08:57:40] [Info] Direct connect redisdatarecall.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 08:57:40] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 08:57:40] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 08:57:40] [Info] Direct connect cpro.baidustatic.com:443
+[2022-11-17 08:57:40] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 08:57:40] [Info] Direct connect lupic.cdn.bcebos.com:443
+[2022-11-17 08:57:40] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 08:57:40] [Info] Direct connect statistic.csdn.net:443
+[2022-11-17 08:57:40] [Info] Direct connect zhannei-dm.csdn.net:443
+[2022-11-17 08:57:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:42] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 08:57:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:42] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 08:57:43] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 08:57:44] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:45] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:45] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 08:57:45] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:47] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:57:47] [Info] Direct connect beacon.tingyun.com:443
+[2022-11-17 08:57:48] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 08:57:56] [Info] Disconnect update.code.visualstudio.com:443
+[2022-11-17 08:58:01] [Info] Direct connect oss.mail.qq.com:443
+[2022-11-17 08:58:06] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 08:58:07] [Info] Direct connect sofire.baidu.com:443
+[2022-11-17 08:58:07] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 08:58:15] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 08:58:15] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 08:58:15] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:58:15] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:58:15] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 08:58:15] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 08:58:15] [Info] Direct connect at.alicdn.com:443
+[2022-11-17 08:58:15] [Info] Connect www.jianshu.com:443
+[2022-11-17 08:58:15] [Info] Direct connect cdn2.jianshu.io:443
+[2022-11-17 08:58:15] [Info] Direct connect static.mediav.com:443
+[2022-11-17 08:58:18] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:58:18] [Info] Direct connect www.google-analytics.com:443
+[2022-11-17 08:58:18] [Info] Direct connect sensors.ibreader.com:443
+[2022-11-17 08:58:18] [Info] Direct connect ifeng3.yylady.cn:443
+[2022-11-17 08:58:18] [Info] Direct connect upload.jianshu.io:443
+[2022-11-17 08:58:18] [Info] Direct connect static.mediav.com:443
+[2022-11-17 08:58:18] [Debug] DNS query fail: v1.cnzz.com
+[2022-11-17 08:58:18] [Info] Connect v1.cnzz.com:443
+[2022-11-17 08:58:19] [Info] Direct connect c.cnzz.com:443
+[2022-11-17 08:58:19] [Info] Direct connect z6.cnzz.com:443
+[2022-11-17 08:58:19] [Info] Direct connect c.cnzz.com:443
+[2022-11-17 08:58:20] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 08:58:20] [Info] Direct connect revive.outin.cn:443
+[2022-11-17 08:58:21] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 08:58:21] [Info] Direct connect lib.sinaapp.com:443
+[2022-11-17 08:58:21] [Debug] DNS query fail: s2.yylady.cn
+[2022-11-17 08:58:21] [Info] Connect s2.yylady.cn:443
+[2022-11-17 08:58:22] [Info] Direct connect show-g.mediav.com:443
+[2022-11-17 08:58:23] [Info] Direct connect max-l.mediav.com:443
+[2022-11-17 08:58:23] [Info] Direct connect s3m.mediav.com:443
+[2022-11-17 08:58:23] [Info] Connect ssxd.mediav.com:443
+[2022-11-17 08:58:23] [Info] Disconnect vscodeexperiments.azureedge.net:443
+[2022-11-17 08:58:23] [Info] Disconnect s2.yylady.cn:443
+[2022-11-17 08:58:27] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 08:58:28] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 08:58:34] [Info] Disconnect ssxd.mediav.com:443
+[2022-11-17 08:59:10] [Info] Direct connect assets.msn.cn:443
+[2022-11-17 08:59:10] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 08:59:20] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 08:59:20] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 08:59:20] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:59:20] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:59:20] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 08:59:20] [Info] Connect www.gxlcms.com:443
+[2022-11-17 08:59:20] [Info] Connect www.gxlcms.com:443
+[2022-11-17 08:59:20] [Info] Disconnect www.gxlcms.com:443
+[2022-11-17 08:59:20] [Info] Connect www.gxlcms.com:443
+[2022-11-17 08:59:23] [Info] Disconnect www.gxlcms.com:443
+[2022-11-17 08:59:23] [Info] Connect www.gxlcms.com:443
+[2022-11-17 08:59:24] [Info] Disconnect www.gxlcms.com:443
+[2022-11-17 08:59:25] [Info] Connect www.gxlcms.com:443
+[2022-11-17 08:59:27] [Info] Disconnect www.gxlcms.com:443
+[2022-11-17 08:59:28] [Info] Disconnect www.gxlcms.com:443
+[2022-11-17 08:59:28] [Info] Connect www.gxlcms.com:443
+[2022-11-17 08:59:28] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:59:32] [Info] Disconnect www.gxlcms.com:443
+[2022-11-17 08:59:32] [Info] Direct connect ss0.baidu.com:443
+[2022-11-17 08:59:32] [Info] Direct connect ss1.baidu.com:443
+[2022-11-17 08:59:32] [Info] Direct connect ss3.baidu.com:443
+[2022-11-17 08:59:32] [Info] Direct connect ss2.baidu.com:443
+[2022-11-17 08:59:32] [Info] Disconnect v1.cnzz.com:443
+[2022-11-17 08:59:32] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:59:32] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:59:32] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:59:32] [Info] Direct connect www.baidu.com:443
+[2022-11-17 08:59:33] [Info] Disconnect www.jianshu.com:443
+[2022-11-17 08:59:33] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 08:59:33] [Info] Disconnect event.csdn.net:443
+[2022-11-17 08:59:34] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 08:59:34] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect fc-ccimage.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect fc1tn.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect t14.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect t7.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect t9.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 08:59:34] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 08:59:38] [Info] Direct connect t8.baidu.com:443
+[2022-11-17 08:59:38] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 08:59:38] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 08:59:39] [Info] Connect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 08:59:40] [Info] Disconnect translate.googleapis.com:443
+[2022-11-17 08:59:48] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 08:59:48] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 08:59:48] [Info] Connect www.likecs.com:443
+[2022-11-17 08:59:48] [Info] Direct connect cdn.staticfile.org:443
+[2022-11-17 08:59:48] [Info] Direct connect t.likecs.com:443
+[2022-11-17 08:59:48] [Info] Direct connect sdk.51.la:443
+[2022-11-17 08:59:49] [Info] Connect collect-v6.51.la:443
+[2022-11-17 08:59:49] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 08:59:50] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 08:59:50] [Info] Direct connect partner.googleadservices.com:443
+[2022-11-17 08:59:50] [Info] Direct connect adservice.google.com:443
+[2022-11-17 08:59:50] [Info] Direct connect www.gstatic.com:443
+[2022-11-17 08:59:50] [Info] Direct connect tpc.googlesyndication.com:443
+[2022-11-17 08:59:50] [Info] Direct connect www.googletagservices.com:443
+[2022-11-17 08:59:50] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-11-17 08:59:50] [Info] Connect us-u.openx.net:443
+[2022-11-17 08:59:50] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 08:59:50] [Info] Connect odr.mookie1.com:443
+[2022-11-17 08:59:50] [Info] Connect id.rlcdn.com:443
+[2022-11-17 08:59:50] [Info] Connect cc.adingo.jp:443
+[2022-11-17 08:59:50] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 08:59:50] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:50] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:50] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 08:59:50] [Debug] DNS query fail: token.rubiconproject.com
+[2022-11-17 08:59:50] [Debug] DNS query fail: token.rubiconproject.com
+[2022-11-17 08:59:50] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 08:59:50] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 08:59:50] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:51] [Info] Disconnect www.likecs.com:443
+[2022-11-17 08:59:51] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 08:59:51] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 08:59:51] [Info] Connect www.likecs.com:443
+[2022-11-17 08:59:51] [Info] Connect id.rlcdn.com:443
+[2022-11-17 08:59:51] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-11-17 08:59:51] [Info] Connect us-u.openx.net:443
+[2022-11-17 08:59:51] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 08:59:51] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-11-17 08:59:51] [Info] Connect cc.adingo.jp:443
+[2022-11-17 08:59:51] [Info] Connect cc.adingo.jp:443
+[2022-11-17 08:59:51] [Info] Connect us-u.openx.net:443
+[2022-11-17 08:59:51] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-11-17 08:59:51] [Info] Connect www.google.com:443
+[2022-11-17 08:59:51] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:51] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:51] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:51] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:51] [Info] Connect um.simpli.fi:443
+[2022-11-17 08:59:51] [Info] Disconnect us-u.openx.net:443
+[2022-11-17 08:59:51] [Info] Disconnect us-u.openx.net:443
+[2022-11-17 08:59:51] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 08:59:51] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 08:59:51] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 08:59:51] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:51] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:52] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 08:59:52] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 08:59:53] [Info] Disconnect collect-v6.51.la:443
+[2022-11-17 08:59:53] [Info] Connect collect-v6.51.la:443
+[2022-11-17 08:59:53] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 08:59:54] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:54] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:54] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:56] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 08:59:58] [Info] Direct connect sdk.51.la:443
+[2022-11-17 08:59:58] [Info] Direct connect t.likecs.com:443
+[2022-11-17 08:59:58] [Info] Direct connect www.aliyun.com:443
+[2022-11-17 08:59:58] [Info] Direct connect at.alicdn.com:443
+[2022-11-17 08:59:58] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 08:59:58] [Info] Direct connect img.alicdn.com:443
+[2022-11-17 08:59:58] [Info] Connect collect-v6.51.la:443
+[2022-11-17 08:59:58] [Info] Direct connect partner.googleadservices.com:443
+[2022-11-17 08:59:58] [Info] Direct connect adservice.google.com:443
+[2022-11-17 08:59:59] [Info] Direct connect log.mmstat.com:443
+[2022-11-17 08:59:59] [Info] Direct connect www.gstatic.com:443
+[2022-11-17 08:59:59] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Connect cc.adingo.jp:443
+[2022-11-17 08:59:59] [Info] Direct connect cloud-assets.alicdn.com:443
+[2022-11-17 08:59:59] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 08:59:59] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Direct connect tpc.googlesyndication.com:443
+[2022-11-17 08:59:59] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 08:59:59] [Info] Direct connect aliyun-web-tracker.cn-zhangjiakou.log.aliyuncs.com:443
+[2022-11-17 08:59:59] [Info] Direct connect www.aliyun.com:443
+[2022-11-17 08:59:59] [Info] Connect ups.analytics.yahoo.com:443
+[2022-11-17 08:59:59] [Debug] DNS query fail: openx2-match.dotomi.com
+[2022-11-17 08:59:59] [Info] Connect openx2-match.dotomi.com:443
+[2022-11-17 08:59:59] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 08:59:59] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 08:59:59] [Info] Disconnect um.simpli.fi:443
+[2022-11-17 08:59:59] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-11-17 08:59:59] [Info] Disconnect www.likecs.com:443
+[2022-11-17 08:59:59] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-11-17 08:59:59] [Info] Direct connect csi.gstatic.com:443
+[2022-11-17 08:59:59] [Info] Direct connect bridge.aliyun.com:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 08:59:59] [Info] Connect cc.adingo.jp:443
+[2022-11-17 08:59:59] [Debug] DNS query fail: token.rubiconproject.com
+[2022-11-17 08:59:59] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 08:59:59] [Info] Connect apsoutheast-match.deepintent.com:443
+[2022-11-17 08:59:59] [Info] Disconnect www.google.com:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Connect cc.adingo.jp:443
+[2022-11-17 08:59:59] [Debug] DNS query fail: token.rubiconproject.com
+[2022-11-17 08:59:59] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 08:59:59] [Info] Connect cc.adingo.jp:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Direct connect redirector.gvt1.com:443
+[2022-11-17 08:59:59] [Info] Direct connect redirector.gvt1.com:443
+[2022-11-17 08:59:59] [Info] Direct connect log.mmstat.com:443
+[2022-11-17 08:59:59] [Info] Direct connect redirector.gvt1.com:443
+[2022-11-17 08:59:59] [Info] Connect x.bidswitch.net:443
+[2022-11-17 08:59:59] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Direct connect aliyun-page.cn-hangzhou.log.aliyuncs.com:443
+[2022-11-17 08:59:59] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Connect ads.pubmatic.com:443
+[2022-11-17 08:59:59] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 08:59:59] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 08:59:59] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 08:59:59] [Info] Disconnect odr.mookie1.com:443
+[2022-11-17 08:59:59] [Info] Direct connect r3---sn-j5o76n76.gvt1.com:443
+[2022-11-17 08:59:59] [Info] Direct connect r3---sn-j5o76n76.gvt1.com:443
+[2022-11-17 08:59:59] [Info] Direct connect r3---sn-j5o76n76.gvt1.com:443
+[2022-11-17 08:59:59] [Info] Direct connect page.aliyun.com:443
+[2022-11-17 08:59:59] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 08:59:59] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 08:59:59] [Debug] DNS query fail: token.rubiconproject.com
+[2022-11-17 08:59:59] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 09:00:00] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:00] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:00:00] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:00] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Direct connect adservice.google.com:443
+[2022-11-17 09:00:00] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 09:00:00] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 09:00:00] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:00:00] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Connect x.bidswitch.net:443
+[2022-11-17 09:00:00] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Connect pixel.tapad.com:443
+[2022-11-17 09:00:00] [Info] Direct connect bridge.aliyun.com:443
+[2022-11-17 09:00:00] [Info] Direct connect fecs.console.aliyun.com:443
+[2022-11-17 09:00:00] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 09:00:00] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Connect x.bidswitch.net:443
+[2022-11-17 09:00:00] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:00] [Info] Disconnect collect-v6.51.la:443
+[2022-11-17 09:00:00] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:00:00] [Info] Connect odr.mookie1.com:443
+[2022-11-17 09:00:00] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:00] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:00] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:00:00] [Info] Disconnect ups.analytics.yahoo.com:443
+[2022-11-17 09:00:00] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:00:00] [Info] Direct connect tpc.googlesyndication.com:443
+[2022-11-17 09:00:00] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 09:00:00] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 09:00:00] [Info] Direct connect aliyun-page.cn-hangzhou.log.aliyuncs.com:443
+[2022-11-17 09:00:00] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:00] [Info] Disconnect x.bidswitch.net:443
+[2022-11-17 09:00:00] [Info] Connect cc.adingo.jp:443
+[2022-11-17 09:00:00] [Info] Connect match.adsrvr.org:443
+[2022-11-17 09:00:00] [Info] Direct connect query.aliyun.com:443
+[2022-11-17 09:00:00] [Info] Direct connect aliyun-page.cn-hangzhou.log.aliyuncs.com:443
+[2022-11-17 09:00:00] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 09:00:00] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:00] [Info] Connect csync.loopme.me:443
+[2022-11-17 09:00:00] [Info] Disconnect x.bidswitch.net:443
+[2022-11-17 09:00:01] [Info] Disconnect odr.mookie1.com:443
+[2022-11-17 09:00:01] [Info] Disconnect ads.pubmatic.com:443
+[2022-11-17 09:00:01] [Info] Disconnect openx2-match.dotomi.com:443
+[2022-11-17 09:00:01] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:00:01] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:00:01] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 09:00:01] [Info] Direct connect query.aliyun.com:443
+[2022-11-17 09:00:01] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-11-17 09:00:01] [Info] Direct connect csi.gstatic.com:443
+[2022-11-17 09:00:01] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:01] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:00:01] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 09:00:01] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:01] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:01] [Info] Direct connect page.aliyun.com:443
+[2022-11-17 09:00:01] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:01] [Info] Direct connect cart.aliyun.com:443
+[2022-11-17 09:00:01] [Info] Connect x.bidswitch.net:443
+[2022-11-17 09:00:01] [Info] Connect us-u.openx.net:443
+[2022-11-17 09:00:01] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-11-17 09:00:01] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:01] [Info] Direct connect img.alicdn.com:443
+[2022-11-17 09:00:01] [Info] Direct connect merak.alicdn.com:443
+[2022-11-17 09:00:01] [Info] Direct connect merak.alicdn.com:443
+[2022-11-17 09:00:01] [Info] Disconnect pixel.tapad.com:443
+[2022-11-17 09:00:01] [Info] Disconnect apsoutheast-match.deepintent.com:443
+[2022-11-17 09:00:01] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:00:01] [Info] Disconnect us-u.openx.net:443
+[2022-11-17 09:00:01] [Info] Disconnect match.adsrvr.org:443
+[2022-11-17 09:00:01] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:01] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:01] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:01] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:01] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:01] [Info] Connect x.bidswitch.net:443
+[2022-11-17 09:00:01] [Info] Direct connect alioth.alicdn.com:443
+[2022-11-17 09:00:02] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 09:00:02] [Info] Direct connect csi.gstatic.com:443
+[2022-11-17 09:00:02] [Info] Disconnect collect-v6.51.la:443
+[2022-11-17 09:00:02] [Info] Connect collect-v6.51.la:443
+[2022-11-17 09:00:02] [Info] Direct connect buy-api.aliyun.com:443
+[2022-11-17 09:00:02] [Info] Direct connect bridge.aliyun.com:443
+[2022-11-17 09:00:02] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:02] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:02] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 09:00:02] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:02] [Info] Disconnect x.bidswitch.net:443
+[2022-11-17 09:00:02] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:02] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:02] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:02] [Info] Disconnect x.bidswitch.net:443
+[2022-11-17 09:00:02] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:02] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:02] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:02] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:02] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 09:00:02] [Debug] DNS query fail: token.rubiconproject.com
+[2022-11-17 09:00:02] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 09:00:03] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:03] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:03] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:03] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:03] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:03] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:04] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:04] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:04] [Info] Direct connect aliyun-page.cn-hangzhou.log.aliyuncs.com:443
+[2022-11-17 09:00:04] [Info] Disconnect csync.loopme.me:443
+[2022-11-17 09:00:04] [Info] Connect csync.loopme.me:443
+[2022-11-17 09:00:04] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:04] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:04] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:04] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:04] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:04] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:05] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:05] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:06] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:06] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 09:00:07] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:08] [Info] Connect static.nvidiagrid.net:443
+[2022-11-17 09:00:08] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 09:00:08] [Info] Disconnect static.nvidiagrid.net:443
+[2022-11-17 09:00:15] [Info] Direct connect aliyun-web-tracker.cn-zhangjiakou.log.aliyuncs.com:443
+[2022-11-17 09:00:35] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 09:00:38] [Info] Direct connect adservice.google.com:443
+[2022-11-17 09:00:38] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:00:38] [Info] Direct connect redirector.gvt1.com:443
+[2022-11-17 09:00:38] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:00:38] [Info] Connect odr.mookie1.com:443
+[2022-11-17 09:00:38] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 09:00:38] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:38] [Info] Connect cc.adingo.jp:443
+[2022-11-17 09:00:38] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:38] [Info] Connect pixel-sync.sitescout.com:443
+[2022-11-17 09:00:38] [Info] Direct connect r3---sn-j5o76n76.gvt1.com:443
+[2022-11-17 09:00:38] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:38] [Debug] DNS query fail: token.rubiconproject.com
+[2022-11-17 09:00:38] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 09:00:38] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:38] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:38] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:38] [Info] Direct connect r3---sn-j5o76n76.gvt1.com:443
+[2022-11-17 09:00:38] [Info] Direct connect r3---sn-j5o76n76.gvt1.com:443
+[2022-11-17 09:00:38] [Info] Connect j.mrpdata.net:443
+[2022-11-17 09:00:38] [Info] Disconnect collect-v6.51.la:443
+[2022-11-17 09:00:38] [Info] Disconnect x.bidswitch.net:443
+[2022-11-17 09:00:38] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:38] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:38] [Info] Connect ads.pubmatic.com:443
+[2022-11-17 09:00:38] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 09:00:38] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-11-17 09:00:38] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-11-17 09:00:38] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:00:38] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:00:38] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:38] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:38] [Info] Connect cm.ctnsnet.com:443
+[2022-11-17 09:00:38] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:00:38] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:00:38] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:38] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:38] [Info] Disconnect ads.pubmatic.com:443
+[2022-11-17 09:00:38] [Info] Connect ads.pubmatic.com:443
+[2022-11-17 09:00:39] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:00:39] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:39] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:39] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:40] [Info] Disconnect j.mrpdata.net:443
+[2022-11-17 09:00:40] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:40] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:00:41] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:00:41] [Info] Direct connect www.gstatic.cn:443
+[2022-11-17 09:00:43] [Info] Direct connect t.aliyun.com:443
+[2022-11-17 09:00:43] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:43] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:43] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:43] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:43] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 09:00:43] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 09:00:43] [Info] Direct connect alioth.alicdn.com:443
+[2022-11-17 09:00:44] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:44] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:44] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2022-11-17 09:00:44] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:00:44] [Info] Disconnect pixel-sync.sitescout.com:443
+[2022-11-17 09:00:44] [Info] Disconnect csync.loopme.me:443
+[2022-11-17 09:00:45] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:45] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:45] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:45] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:46] [Info] Direct connect gm.mmstat.com:443
+[2022-11-17 09:00:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:48] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:00:48] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:48] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 09:00:48] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:00:48] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:00:48] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 09:00:48] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 09:00:48] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:00:48] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:00:48] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:00:48] [Info] Direct connect dup.baidustatic.com:443
+[2022-11-17 09:00:48] [Info] Direct connect csdnimg.cn:443
+[2022-11-17 09:00:48] [Debug] DNS query fail: event.csdn.net
+[2022-11-17 09:00:48] [Info] Connect event.csdn.net:443
+[2022-11-17 09:00:49] [Debug] DNS query fail: event.csdn.net
+[2022-11-17 09:00:49] [Info] Connect event.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:00:49] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-11-17 09:00:49] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:00:49] [Info] Direct connect silkroad.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect kunpeng.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-11-17 09:00:49] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 09:00:49] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:49] [Info] Direct connect statistic.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect pos.baidu.com:443
+[2022-11-17 09:00:49] [Info] Disconnect event.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect sofire.bdstatic.com:443
+[2022-11-17 09:00:49] [Info] Direct connect profile-avatar.csdnimg.cn:443
+[2022-11-17 09:00:49] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect gsp0.baidu.com:443
+[2022-11-17 09:00:49] [Info] Direct connect devpress-api.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect redisdatarecall.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:00:49] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:00:49] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:00:49] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 09:00:49] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:00:49] [Info] Disconnect ads.pubmatic.com:443
+[2022-11-17 09:00:49] [Info] Disconnect us-u.openx.net:443
+[2022-11-17 09:00:49] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:49] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:49] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:49] [Info] Disconnect cm.ctnsnet.com:443
+[2022-11-17 09:00:49] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:00:49] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-11-17 09:00:49] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:00:49] [Info] Disconnect odr.mookie1.com:443
+[2022-11-17 09:00:49] [Debug] DNS query fail: event.csdn.net
+[2022-11-17 09:00:49] [Info] Connect event.csdn.net:443
+[2022-11-17 09:00:50] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:00:50] [Info] Direct connect lupic.cdn.bcebos.com:443
+[2022-11-17 09:00:50] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:00:50] [Info] Disconnect event.csdn.net:443
+[2022-11-17 09:00:50] [Info] Direct connect zhannei-dm.csdn.net:443
+[2022-11-17 09:00:50] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-11-17 09:00:51] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:51] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:51] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:52] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:52] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:52] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:52] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:52] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:52] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:54] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:54] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:54] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:54] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:54] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:54] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:56] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:56] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:57] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:57] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:57] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:00:59] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:00:59] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:01:00] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:01:00] [Info] Connect google.com:443
+[2022-11-17 09:01:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:01:01] [Info] Direct connect beacon.tingyun.com:443
+[2022-11-17 09:01:01] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:01:02] [Info] Direct connect sofire.baidu.com:443
+[2022-11-17 09:01:02] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:01:06] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 09:01:14] [Info] Disconnect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:01:20] [Info] Direct connect sensors.ibreader.com:443
+[2022-11-17 09:01:28] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:01:30] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:01:30] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:01:32] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:02:06] [Info] Connect assets.msn.com:443
+[2022-11-17 09:02:06] [Info] Connect assets.msn.com:443
+[2022-11-17 09:02:08] [Info] Disconnect assets.msn.com:443
+[2022-11-17 09:02:32] [Info] Connect e2c21.gcp.gvt2.com:443
+[2022-11-17 09:02:39] [Info] Disconnect e2c21.gcp.gvt2.com:443
+[2022-11-17 09:02:40] [Info] Connect chrome.google.com:443
+[2022-11-17 09:02:46] [Info] Disconnect chrome.google.com:443
+[2022-11-17 09:02:46] [Info] Connect chrome.google.com:443
+[2022-11-17 09:02:47] [Info] Direct connect beacons.gvt2.com:443
+[2022-11-17 09:02:48] [Info] Direct connect ssl.google-analytics.com:443
+[2022-11-17 09:02:48] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 09:02:49] [Info] Connect scone-pa.clients6.google.com:443
+[2022-11-17 09:02:49] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 09:02:49] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 09:02:49] [Info] Connect lh3.googleusercontent.com:443
+[2022-11-17 09:02:49] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 09:02:49] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 09:02:49] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 09:02:53] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:02:55] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:03:02] [Info] Disconnect event.csdn.net:443
+[2022-11-17 09:03:08] [Info] Disconnect assets.msn.com:443
+[2022-11-17 09:03:18] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:03:19] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:03:52] [Info] Connect smartscreen-prod.microsoft.com:443
+[2022-11-17 09:03:55] [Info] Direct connect 182.254.116.117:80
+[2022-11-17 09:03:55] [Info] Disconnect smartscreen-prod.microsoft.com:443
+[2022-11-17 09:03:57] [Info] Connect www.googleapis.com:443
+[2022-11-17 09:04:01] [Info] Direct connect mmbiz.qpic.cn:443
+[2022-11-17 09:04:01] [Info] Direct connect badjs.weixinbridge.com:443
+[2022-11-17 09:04:02] [Info] Direct connect mp.weixin.qq.com:443
+[2022-11-17 09:04:03] [Info] Disconnect www.googleapis.com:443
+[2022-11-17 09:04:03] [Info] Connect www.googleapis.com:443
+[2022-11-17 09:04:14] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:04:15] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:05:06] [Info] Direct connect assets.msn.cn:443
+[2022-11-17 09:05:07] [Info] Connect www.msn.cn:443
+[2022-11-17 09:05:07] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:05:07] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:05:07] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:05:07] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:05:07] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:05:07] [Info] Connect img-s.msn.cn:443
+[2022-11-17 09:05:07] [Info] Direct connect assets.msn.cn:443
+[2022-11-17 09:05:07] [Info] Direct connect assets.msn.cn:443
+[2022-11-17 09:05:07] [Info] Connect img-s.msn.cn:443
+[2022-11-17 09:05:07] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:05:07] [Info] Direct connect ecn.dev.ditu.live.com:443
+[2022-11-17 09:05:07] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:05:08] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:05:08] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:05:09] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:05:10] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:05:10] [Info] Connect aefd.nelreports.net:443
+[2022-11-17 09:05:11] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:05:21] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:05:22] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:05:27] [Info] Disconnect img-s.msn.cn:443
+[2022-11-17 09:05:48] [Info] Disconnect aefd.nelreports.net:443
+[2022-11-17 09:05:48] [Info] Disconnect img-s.msn.cn:443
+[2022-11-17 09:05:48] [Info] Disconnect www.msn.cn:443
+[2022-11-17 09:06:24] [Info] Connect roaming.officeapps.live.com:443
+[2022-11-17 09:06:25] [Info] Disconnect roaming.officeapps.live.com:443
+[2022-11-17 09:06:49] [Info] Disconnect scone-pa.clients6.google.com:443
+[2022-11-17 09:08:01] [Info] Direct connect oss.mail.qq.com:443
+[2022-11-17 09:08:03] [Info] Disconnect www.googleapis.com:443
+[2022-11-17 09:08:03] [Info] Disconnect google.com:443
+[2022-11-17 09:08:10] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 09:08:10] [Info] Direct connect sensors.ibreader.com:443
+[2022-11-17 09:08:13] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:08:13] [Info] Direct connect csi.gstatic.com:443
+[2022-11-17 09:08:13] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-11-17 09:08:15] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:08:17] [Info] Direct connect ss0.baidu.com:443
+[2022-11-17 09:08:17] [Info] Direct connect ss1.baidu.com:443
+[2022-11-17 09:08:17] [Info] Direct connect ss2.baidu.com:443
+[2022-11-17 09:08:17] [Info] Direct connect ss3.baidu.com:443
+[2022-11-17 09:08:19] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:08:20] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 09:08:20] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 09:08:20] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 09:08:20] [Info] Direct connect t8.baidu.com:443
+[2022-11-17 09:08:20] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:08:20] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 09:08:20] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 09:08:21] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 09:08:21] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 09:08:21] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 09:08:21] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 09:08:21] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 09:08:21] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 09:08:21] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 09:08:21] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 09:08:24] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:08:26] [Info] Direct connect t7.baidu.com:443
+[2022-11-17 09:08:26] [Info] Direct connect t9.baidu.com:443
+[2022-11-17 09:08:26] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 09:08:35] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 09:08:35] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 09:08:35] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 09:08:35] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:08:35] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:08:35] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:08:35] [Info] Direct connect csdnimg.cn:443
+[2022-11-17 09:08:35] [Info] Direct connect dup.baidustatic.com:443
+[2022-11-17 09:08:35] [Debug] DNS query fail: event.csdn.net
+[2022-11-17 09:08:35] [Info] Connect event.csdn.net:443
+[2022-11-17 09:08:36] [Debug] DNS query fail: event.csdn.net
+[2022-11-17 09:08:36] [Info] Connect event.csdn.net:443
+[2022-11-17 09:08:36] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-11-17 09:08:36] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:08:36] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:08:36] [Info] Direct connect silkroad.csdn.net:443
+[2022-11-17 09:08:36] [Info] Direct connect kunpeng.csdn.net:443
+[2022-11-17 09:08:36] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 09:08:36] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:08:36] [Info] Direct connect pos.baidu.com:443
+[2022-11-17 09:08:36] [Info] Direct connect sofire.bdstatic.com:443
+[2022-11-17 09:08:36] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-11-17 09:08:36] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 09:08:36] [Info] Direct connect profile-avatar.csdnimg.cn:443
+[2022-11-17 09:08:36] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:08:36] [Info] Direct connect gsp0.baidu.com:443
+[2022-11-17 09:08:36] [Info] Direct connect devpress-api.csdn.net:443
+[2022-11-17 09:08:36] [Info] Direct connect redisdatarecall.csdn.net:443
+[2022-11-17 09:08:36] [Info] Disconnect event.csdn.net:443
+[2022-11-17 09:08:37] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:08:37] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:08:37] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:08:37] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:08:37] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:08:37] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:08:37] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:08:37] [Info] Disconnect lh3.googleusercontent.com:443
+[2022-11-17 09:08:37] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:08:37] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:08:37] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:08:37] [Info] Disconnect chrome.google.com:443
+[2022-11-17 09:08:37] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:08:37] [Info] Direct connect lupic.cdn.bcebos.com:443
+[2022-11-17 09:08:37] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:08:37] [Info] Direct connect statistic.csdn.net:443
+[2022-11-17 09:08:37] [Info] Direct connect zhannei-dm.csdn.net:443
+[2022-11-17 09:08:39] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:39] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:08:39] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:39] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:39] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:39] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:39] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:39] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:08:39] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:08:40] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:08:41] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:41] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:08:41] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:41] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:08:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:44] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:08:44] [Info] Direct connect beacon.tingyun.com:443
+[2022-11-17 09:08:44] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:08:44] [Info] Connect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:08:51] [Info] Connect chrome.google.com:443
+[2022-11-17 09:08:56] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-11-17 09:09:02] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:09:07] [Info] Direct connect bizapi.csdn.net:443
+[2022-11-17 09:09:07] [Info] Direct connect bizapi.csdn.net:443
+[2022-11-17 09:09:35] [Info] Connect e2cs31.gcp.gvt2.com:443
+[2022-11-17 09:09:37] [Info] Direct connect beacons.gvt2.com:443
+[2022-11-17 09:09:41] [Info] Disconnect e2cs31.gcp.gvt2.com:443
+[2022-11-17 09:09:53] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:10:05] [Info] Direct connect g-api.csdn.net:443
+[2022-11-17 09:10:06] [Info] Disconnect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:10:08] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:10:30] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:10:30] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 09:10:30] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:10:30] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:10:30] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 09:10:30] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 09:10:30] [Info] Direct connect adservice.google.com:443
+[2022-11-17 09:10:30] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:30] [Info] Connect 1.1.1.3:89
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect pagead2.googlesyndication.com:80
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:32] [Info] Direct connect push.zhanzhang.baidu.com:80
+[2022-11-17 09:10:32] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:10:32] [Info] Direct connect api.share.baidu.com:80
+[2022-11-17 09:10:32] [Info] Disconnect 1.1.1.3:89
+[2022-11-17 09:10:32] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:10:32] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 09:10:33] [Info] Direct connect partner.googleadservices.com:443
+[2022-11-17 09:10:33] [Info] Direct connect fonts.googleapis.com:443
+[2022-11-17 09:10:33] [Info] Direct connect tpc.googlesyndication.com:443
+[2022-11-17 09:10:33] [Info] Direct connect www.googletagservices.com:443
+[2022-11-17 09:10:33] [Info] Direct connect www.gstatic.com:443
+[2022-11-17 09:10:33] [Info] Direct connect fonts.gstatic.com:443
+[2022-11-17 09:10:33] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:10:33] [Info] Connect odr.mookie1.com:443
+[2022-11-17 09:10:33] [Info] Connect us-u.openx.net:443
+[2022-11-17 09:10:34] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-11-17 09:10:34] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:34] [Info] Connect cc.adingo.jp:443
+[2022-11-17 09:10:34] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 09:10:34] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 09:10:34] [Info] Direct connect adservice.google.com:443
+[2022-11-17 09:10:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 09:10:34] [Info] Disconnect chrome.google.com:443
+[2022-11-17 09:10:34] [Info] Connect cms.quantserve.com:443
+[2022-11-17 09:10:34] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:10:34] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 09:10:34] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:10:34] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 09:10:34] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:10:34] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 09:10:34] [Info] Disconnect event.csdn.net:443
+[2022-11-17 09:10:34] [Info] Direct connect fonts.googleapis.com:443
+[2022-11-17 09:10:34] [Info] Direct connect www.gstatic.cn:443
+[2022-11-17 09:10:34] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect match.adsrvr.org:443
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-11-17 09:10:34] [Info] Connect ads.pubmatic.com:443
+[2022-11-17 09:10:34] [Info] Connect e-jp.cmcd1.com:443
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Direct connect fonts.gstatic.com:443
+[2022-11-17 09:10:34] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 09:10:34] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:10:34] [Info] Direct connect www.manongjc.com:80
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:10:34] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:10:34] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect ib.adnxs.com:443
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:10:34] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:10:34] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:10:34] [Info] Connect cs.adingo.jp:443
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect www.google.com:443
+[2022-11-17 09:10:34] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:34] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:10:35] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:35] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:35] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:36] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:37] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:37] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:37] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:10:37] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-11-17 09:10:38] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:39] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 09:10:39] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:39] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:10:40] [Info] Disconnect cs.adingo.jp:443
+[2022-11-17 09:10:45] [Info] Disconnect ib.adnxs.com:443
+[2022-11-17 09:10:46] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 09:10:52] [Info] Connect chrome.google.com:443
+[2022-11-17 09:10:58] [Info] Connect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:10:58] [Info] Disconnect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:10:58] [Info] Connect disc801.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:11:06] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 09:11:34] [Info] Disconnect cms.quantserve.com:443
+[2022-11-17 09:11:35] [Info] Disconnect match.adsrvr.org:443
+[2022-11-17 09:11:35] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-11-17 09:11:39] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:12:06] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:12:07] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:12:35] [Info] Disconnect ads.pubmatic.com:443
+[2022-11-17 09:12:49] [Info] Disconnect disc801.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:13:06] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:13:06] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 09:13:06] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:13:06] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:13:06] [Info] Connect www.jianshu.com:443
+[2022-11-17 09:13:06] [Info] Direct connect static.mediav.com:443
+[2022-11-17 09:13:06] [Info] Direct connect cdn2.jianshu.io:443
+[2022-11-17 09:13:09] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:13:09] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:13:09] [Info] Direct connect sensors.ibreader.com:443
+[2022-11-17 09:13:09] [Info] Direct connect upload.jianshu.io:443
+[2022-11-17 09:13:09] [Debug] DNS query fail: udiab1.jianshu.com
+[2022-11-17 09:13:09] [Info] Connect udiab1.jianshu.com:443
+[2022-11-17 09:13:09] [Info] Direct connect static.mediav.com:443
+[2022-11-17 09:13:09] [Info] Direct connect upload-images.jianshu.io:443
+[2022-11-17 09:13:09] [Debug] DNS query fail: v1.cnzz.com
+[2022-11-17 09:13:09] [Info] Connect v1.cnzz.com:443
+[2022-11-17 09:13:09] [Info] Direct connect www.google-analytics.com:443
+[2022-11-17 09:13:09] [Info] Direct connect c.cnzz.com:443
+[2022-11-17 09:13:09] [Info] Direct connect z6.cnzz.com:443
+[2022-11-17 09:13:09] [Info] Direct connect c.cnzz.com:443
+[2022-11-17 09:13:09] [Info] Direct connect ei.cnzz.com:443
+[2022-11-17 09:13:10] [Info] Disconnect udiab1.jianshu.com:443
+[2022-11-17 09:13:10] [Debug] DNS query fail: udiab1.jianshu.com
+[2022-11-17 09:13:10] [Info] Connect udiab1.jianshu.com:443
+[2022-11-17 09:13:11] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:13:11] [Info] Direct connect cpro.baidustatic.com:443
+[2022-11-17 09:13:12] [Info] Direct connect sofire.bdstatic.com:443
+[2022-11-17 09:13:12] [Info] Direct connect pos.baidu.com:443
+[2022-11-17 09:13:12] [Info] Direct connect dup.baidustatic.com:443
+[2022-11-17 09:13:13] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:13:13] [Info] Direct connect unmc.bj.bcebos.com:443
+[2022-11-17 09:13:13] [Info] Direct connect revive.outin.cn:443
+[2022-11-17 09:13:13] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:13:13] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-11-17 09:13:13] [Debug] DNS query fail: s2.yylady.cn
+[2022-11-17 09:13:13] [Info] Connect s2.yylady.cn:443
+[2022-11-17 09:13:14] [Info] Direct connect show-g.mediav.com:443
+[2022-11-17 09:13:14] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:13:14] [Info] Direct connect s3m4.fenxi.com:443
+[2022-11-17 09:13:14] [Info] Disconnect v1.cnzz.com:443
+[2022-11-17 09:13:14] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:13:14] [Info] Disconnect odr.mookie1.com:443
+[2022-11-17 09:13:14] [Info] Disconnect us-u.openx.net:443
+[2022-11-17 09:13:14] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:13:14] [Info] Direct connect max-l.mediav.com:443
+[2022-11-17 09:13:14] [Info] Direct connect ssxd.mediav.com:443
+[2022-11-17 09:13:14] [Info] Disconnect chrome.google.com:443
+[2022-11-17 09:13:14] [Info] Direct connect match.p4p.1688.com:443
+[2022-11-17 09:13:14] [Info] Disconnect udiab1.jianshu.com:443
+[2022-11-17 09:13:14] [Info] Disconnect www.google.com:443
+[2022-11-17 09:13:14] [Info] Disconnect www.jianshu.com:443
+[2022-11-17 09:13:14] [Info] Disconnect e-jp.cmcd1.com:443
+[2022-11-17 09:13:14] [Info] Direct connect show-g.mediav.com:443
+[2022-11-17 09:13:15] [Info] Direct connect ssxd.mediav.com:443
+[2022-11-17 09:13:16] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:13:17] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:13:23] [Info] Direct connect sensors.ibreader.com:443
+[2022-11-17 09:13:23] [Info] Direct connect sofire.baidu.com:443
+[2022-11-17 09:13:23] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:13:23] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:13:23] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:13:28] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:13:28] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 09:13:28] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:13:28] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:13:28] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:13:28] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:13:28] [Info] Direct connect csdnimg.cn:443
+[2022-11-17 09:13:28] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:13:28] [Info] Direct connect dup.baidustatic.com:443
+[2022-11-17 09:13:28] [Debug] DNS query fail: event.csdn.net
+[2022-11-17 09:13:28] [Info] Connect event.csdn.net:443
+[2022-11-17 09:13:30] [Debug] DNS query fail: event.csdn.net
+[2022-11-17 09:13:30] [Info] Connect event.csdn.net:443
+[2022-11-17 09:13:30] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-11-17 09:13:30] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:13:30] [Info] Direct connect silkroad.csdn.net:443
+[2022-11-17 09:13:30] [Info] Direct connect kunpeng.csdn.net:443
+[2022-11-17 09:13:30] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 09:13:30] [Info] Direct connect statistic.csdn.net:443
+[2022-11-17 09:13:30] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-11-17 09:13:30] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 09:13:30] [Info] Direct connect gsp0.baidu.com:443
+[2022-11-17 09:13:30] [Info] Direct connect devpress-api.csdn.net:443
+[2022-11-17 09:13:30] [Info] Direct connect profile-avatar.csdnimg.cn:443
+[2022-11-17 09:13:30] [Info] Direct connect redisdatarecall.csdn.net:443
+[2022-11-17 09:13:30] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:13:30] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:13:30] [Info] Direct connect pos.baidu.com:443
+[2022-11-17 09:13:30] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 09:13:30] [Info] Disconnect event.csdn.net:443
+[2022-11-17 09:13:31] [Debug] DNS query fail: event.csdn.net
+[2022-11-17 09:13:31] [Info] Connect event.csdn.net:443
+[2022-11-17 09:13:31] [Info] Direct connect beacon.tingyun.com:443
+[2022-11-17 09:13:31] [Info] Disconnect event.csdn.net:443
+[2022-11-17 09:13:51] [Info] Connect chrome.google.com:443
+[2022-11-17 09:13:51] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:13:55] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-11-17 09:14:01] [Info] Direct connect bizapi.csdn.net:443
+[2022-11-17 09:14:15] [Info] Disconnect s2.yylady.cn:443
+[2022-11-17 09:14:33] [Info] Direct connect suggestion.baidu.com:443
+[2022-11-17 09:14:35] [Info] Direct connect registry.npmmirror.com:443
+[2022-11-17 09:14:45] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:14:45] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:14:45] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 09:14:45] [Info] Direct connect passport.baidu.com:443
+[2022-11-17 09:14:46] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:14:46] [Info] Direct connect ss0.baidu.com:443
+[2022-11-17 09:14:46] [Info] Direct connect ss1.baidu.com:443
+[2022-11-17 09:14:46] [Info] Direct connect ss2.baidu.com:443
+[2022-11-17 09:14:46] [Info] Direct connect ss3.baidu.com:443
+[2022-11-17 09:14:48] [Info] Direct connect sp2.baidu.com:443
+[2022-11-17 09:14:48] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 09:14:48] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 09:14:48] [Info] Direct connect t7.baidu.com:443
+[2022-11-17 09:14:48] [Info] Direct connect t8.baidu.com:443
+[2022-11-17 09:14:48] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:14:48] [Info] Disconnect chrome.google.com:443
+[2022-11-17 09:14:48] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 09:14:48] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:14:48] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 09:14:48] [Info] Direct connect b.bdstatic.com:443
+[2022-11-17 09:14:48] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:14:48] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 09:14:48] [Info] Disconnect event.csdn.net:443
+[2022-11-17 09:14:48] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 09:14:57] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 09:14:57] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:14:57] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 09:14:57] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 09:14:57] [Info] Direct connect www.npmmirror.com:80
+[2022-11-17 09:14:57] [Info] Connect 1.1.1.3:89
+[2022-11-17 09:14:59] [Info] Direct connect www.npmmirror.com:80
+[2022-11-17 09:14:59] [Info] Direct connect www.npmmirror.com:80
+[2022-11-17 09:14:59] [Info] Direct connect cdn.staticfile.org:443
+[2022-11-17 09:14:59] [Info] Direct connect www.npmmirror.com:80
+[2022-11-17 09:14:59] [Info] Direct connect www.npmmirror.com:80
+[2022-11-17 09:14:59] [Info] Direct connect www.npmmirror.com:80
+[2022-11-17 09:14:59] [Info] Direct connect www.npmmirror.com:80
+[2022-11-17 09:14:59] [Info] Direct connect img.alicdn.com:443
+[2022-11-17 09:14:59] [Info] Direct connect render.alipay.com:443
+[2022-11-17 09:14:59] [Info] Direct connect render.alipay.com:443
+[2022-11-17 09:14:59] [Info] Connect img.shields.io:443
+[2022-11-17 09:14:59] [Info] Direct connect cdn.npmmirror.com:443
+[2022-11-17 09:14:59] [Info] Connect img.shields.io:443
+[2022-11-17 09:14:59] [Info] Connect img.shields.io:443
+[2022-11-17 09:14:59] [Info] Direct connect npmmirror.com:443
+[2022-11-17 09:14:59] [Info] Disconnect 1.1.1.3:89
+[2022-11-17 09:14:59] [Info] Direct connect s22.cnzz.com:80
+[2022-11-17 09:14:59] [Info] Direct connect gw.alicdn.com:443
+[2022-11-17 09:15:00] [Info] Connect edge.microsoft.com:443
+[2022-11-17 09:15:00] [Info] Direct connect g.alicdn.com:80
+[2022-11-17 09:15:00] [Info] Direct connect registry.npmmirror.com:443
+[2022-11-17 09:15:00] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 09:15:00] [Info] Connect badgen.net:443
+[2022-11-17 09:15:00] [Info] Direct connect g.alicdn.com:80
+[2022-11-17 09:15:00] [Info] Direct connect log.mmstat.com:80
+[2022-11-17 09:15:00] [Info] Disconnect img.shields.io:443
+[2022-11-17 09:15:00] [Info] Disconnect img.shields.io:443
+[2022-11-17 09:15:00] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 09:15:00] [Info] Direct connect log.mmstat.com:443
+[2022-11-17 09:15:00] [Info] Direct connect g.alicdn.com:80
+[2022-11-17 09:15:00] [Info] Direct connect g.alicdn.com:80
+[2022-11-17 09:15:00] [Info] Direct connect g.alicdn.com:80
+[2022-11-17 09:15:00] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 09:15:00] [Debug] DNS query fail: fourier.taobao.com
+[2022-11-17 09:15:00] [Debug] DNS query fail: fourier.taobao.com
+[2022-11-17 09:15:00] [Info] Connect fourier.taobao.com:443
+[2022-11-17 09:15:00] [Info] Connect fourier.taobao.com:80
+[2022-11-17 09:15:00] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 09:15:01] [Info] Disconnect fourier.taobao.com:80
+[2022-11-17 09:15:03] [Info] Disconnect badgen.net:443
+[2022-11-17 09:15:03] [Info] Connect badgen.net:443
+[2022-11-17 09:15:08] [Info] Connect badgen.net:443
+[2022-11-17 09:15:08] [Info] Direct connect www.npmmirror.com:80
+[2022-11-17 09:15:08] [Info] Direct connect www.npmmirror.com:80
+[2022-11-17 09:15:30] [Info] Connect mobile.events.data.microsoft.com:443
+[2022-11-17 09:15:32] [Info] Disconnect mobile.events.data.microsoft.com:443
+[2022-11-17 09:15:51] [Info] Connect chrome.google.com:443
+[2022-11-17 09:15:52] [Info] Direct connect static.zhihu.com:443
+[2022-11-17 09:15:52] [Info] Direct connect zhuanlan.zhihu.com:443
+[2022-11-17 09:15:52] [Info] Direct connect static.zhihu.com:443
+[2022-11-17 09:15:53] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:15:53] [Info] Connect picd.zhimg.com:443
+[2022-11-17 09:15:53] [Info] Connect picd.zhimg.com:443
+[2022-11-17 09:15:54] [Info] Direct connect zz.bdstatic.com:443
+[2022-11-17 09:15:54] [Info] Direct connect www.zhihu.com:443
+[2022-11-17 09:15:54] [Info] Direct connect sugar.zhihu.com:443
+[2022-11-17 09:15:54] [Info] Direct connect www.zhihu.com:443
+[2022-11-17 09:15:54] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 09:15:54] [Info] Direct connect pay.zhihu.com:443
+[2022-11-17 09:15:54] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2022-11-17 09:15:54] [Info] Direct connect 118.89.204.198:443
+[2022-11-17 09:15:54] [Info] Direct connect pic1.zhimg.com:443
+[2022-11-17 09:15:54] [Info] Direct connect zhstatic.zhihu.com:443
+[2022-11-17 09:15:54] [Info] Direct connect pic4.zhimg.com:443
+[2022-11-17 09:15:56] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:15:56] [Info] Disconnect picd.zhimg.com:443
+[2022-11-17 09:15:56] [Info] Connect picd.zhimg.com:443
+[2022-11-17 09:16:14] [Info] Connect settings-win.data.microsoft.com:443
+[2022-11-17 09:16:15] [Info] Disconnect settings-win.data.microsoft.com:443
+[2022-11-17 09:16:32] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:17:08] [Info] Disconnect edge.microsoft.com:443
+[2022-11-17 09:17:30] [Info] Disconnect picd.zhimg.com:443
+[2022-11-17 09:17:30] [Info] Disconnect picd.zhimg.com:443
+[2022-11-17 09:17:51] [Info] Connect google.com:443
+[2022-11-17 09:17:54] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:18:01] [Info] Direct connect oss.mail.qq.com:443
+[2022-11-17 09:18:31] [Info] Disconnect fourier.taobao.com:443
+[2022-11-17 09:18:37] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:18:49] [Info] Direct connect 182.254.118.119:80
+[2022-11-17 09:19:07] [Info] Direct connect clientservices.googleapis.com:443
+[2022-11-17 09:19:52] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:19:52] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:19:52] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:19:52] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 09:19:52] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 09:19:53] [Info] Direct connect zhuanlan.zhihu.com:443
+[2022-11-17 09:19:53] [Info] Direct connect static.zhihu.com:443
+[2022-11-17 09:19:53] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:19:53] [Info] Direct connect pica.zhimg.com:443
+[2022-11-17 09:19:53] [Info] Direct connect sugar.zhihu.com:443
+[2022-11-17 09:19:53] [Info] Direct connect www.zhihu.com:443
+[2022-11-17 09:19:54] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 09:19:54] [Info] Direct connect pay.zhihu.com:443
+[2022-11-17 09:19:54] [Info] Direct connect 118.89.204.198:443
+[2022-11-17 09:19:54] [Info] Direct connect zhstatic.zhihu.com:443
+[2022-11-17 09:19:54] [Info] Connect picd.zhimg.com:443
+[2022-11-17 09:19:54] [Info] Direct connect pic1.zhimg.com:443
+[2022-11-17 09:19:55] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 09:19:55] [Info] Connect picx.zhimg.com:443
+[2022-11-17 09:19:56] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:20:06] [Info] Connect ecs.office.com:443
+[2022-11-17 09:20:06] [Info] Connect ecs.office.com:443
+[2022-11-17 09:20:06] [Info] Connect ecs.office.com:443
+[2022-11-17 09:20:06] [Info] Connect ecs.office.com:443
+[2022-11-17 09:20:48] [Info] Disconnect badgen.net:443
+[2022-11-17 09:21:00] [Info] Disconnect picd.zhimg.com:443
+[2022-11-17 09:21:01] [Info] Disconnect picx.zhimg.com:443
+[2022-11-17 09:21:11] [Info] Disconnect ecs.office.com:443
+[2022-11-17 09:21:12] [Info] Disconnect ecs.office.com:443
+[2022-11-17 09:21:16] [Info] Disconnect ecs.office.com:443
+[2022-11-17 09:21:16] [Info] Disconnect ecs.office.com:443
+[2022-11-17 09:21:35] [Info] Connect maps.googleapis.com:443
+[2022-11-17 09:21:35] [Info] Connect unpkg.com:443
+[2022-11-17 09:21:35] [Info] Connect unpkg.com:443
+[2022-11-17 09:21:35] [Info] Connect ajax.googleapis.com:443
+[2022-11-17 09:21:35] [Info] Direct connect localhost:60007
+[2022-11-17 09:21:35] [Info] Direct connect localhost:60007
+[2022-11-17 09:21:35] [Info] Disconnect unpkg.com:443
+[2022-11-17 09:21:36] [Info] Connect maps.googleapis.com:443
+[2022-11-17 09:21:36] [Info] Connect maps.gstatic.com:443
+[2022-11-17 09:21:36] [Info] Connect maps.gstatic.com:443
+[2022-11-17 09:21:36] [Info] Connect maps.gstatic.com:443
+[2022-11-17 09:21:36] [Info] Connect maps.gstatic.com:443
+[2022-11-17 09:21:40] [Info] Disconnect img.shields.io:443
+[2022-11-17 09:21:45] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:21:53] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-11-17 09:22:00] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:22:00] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:22:00] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:22:00] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 09:22:00] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 09:22:00] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:00] [Info] Direct connect static.mediav.com:443
+[2022-11-17 09:22:00] [Info] Direct connect cdn2.jianshu.io:443
+[2022-11-17 09:22:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:22:03] [Info] Direct connect www.google-analytics.com:443
+[2022-11-17 09:22:03] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:22:03] [Info] Direct connect sensors.ibreader.com:443
+[2022-11-17 09:22:03] [Info] Direct connect ifeng3.yylady.cn:80
+[2022-11-17 09:22:03] [Info] Direct connect upload.jianshu.io:443
+[2022-11-17 09:22:03] [Info] Direct connect upload-images.jianshu.io:443
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 09:22:03] [Info] Direct connect static.mediav.com:80
+[2022-11-17 09:22:03] [Info] Direct connect v1.cnzz.com:443
+[2022-11-17 09:22:03] [Info] Direct connect udiab1.jianshu.com:443
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:03] [Info] Direct connect cpro.baidustatic.com:80
+[2022-11-17 09:22:03] [Info] Direct connect c.cnzz.com:443
+[2022-11-17 09:22:03] [Info] Direct connect z6.cnzz.com:443
+[2022-11-17 09:22:03] [Info] Direct connect filter.onedns.net:80
+[2022-11-17 09:22:03] [Info] Direct connect sofire.bdstatic.com:80
+[2022-11-17 09:22:03] [Info] Direct connect pos.baidu.com:443
+[2022-11-17 09:22:03] [Info] Direct connect c.cnzz.com:443
+[2022-11-17 09:22:03] [Info] Direct connect cpro.baidustatic.com:443
+[2022-11-17 09:22:03] [Info] Direct connect dup.baidustatic.com:443
+[2022-11-17 09:22:04] [Info] Direct connect sofire.baidu.com:443
+[2022-11-17 09:22:04] [Info] Direct connect ei.cnzz.com:443
+[2022-11-17 09:22:04] [Info] Direct connect static.mediav.com:80
+[2022-11-17 09:22:04] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:22:04] [Info] Direct connect unmc.bj.bcebos.com:443
+[2022-11-17 09:22:04] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:22:04] [Info] Direct connect unmc.bj.bcebos.com:443
+[2022-11-17 09:22:04] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:22:04] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:22:04] [Info] Direct connect filter.onedns.net:80
+[2022-11-17 09:22:04] [Info] Direct connect static.mediav.com:80
+[2022-11-17 09:22:04] [Info] Direct connect filter.onedns.net:80
+[2022-11-17 09:22:05] [Info] Direct connect revive.outin.cn:80
+[2022-11-17 09:22:05] [Info] Direct connect lib.sinaapp.com:443
+[2022-11-17 09:22:05] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:22:05] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:22:05] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:22:05] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:22:05] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:22:05] [Info] Direct connect s2.yylady.cn:443
+[2022-11-17 09:22:05] [Info] Direct connect s2.yylady.cn:443
+[2022-11-17 09:22:05] [Info] Direct connect show.g.mediav.com:80
+[2022-11-17 09:22:05] [Info] Direct connect show.g.mediav.com:80
+[2022-11-17 09:22:06] [Info] Direct connect s3m.mediav.com:80
+[2022-11-17 09:22:06] [Info] Direct connect ssxd.mediav.com:80
+[2022-11-17 09:22:06] [Info] Direct connect max-l.mediav.com:80
+[2022-11-17 09:22:08] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:22:14] [Info] Direct connect events.jianshu.io:80
+[2022-11-17 09:22:16] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:22:16] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:22:16] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:22:19] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 09:22:19] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 09:22:19] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 09:22:19] [Info] Direct connect www.csdn.net:443
+[2022-11-17 09:22:19] [Info] Direct connect www.csdn.net:443
+[2022-11-17 09:22:20] [Info] Direct connect csdnimg.cn:443
+[2022-11-17 09:22:20] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:22:20] [Info] Direct connect aeu.alicdn.com:443
+[2022-11-17 09:22:20] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-11-17 09:22:20] [Info] Direct connect gsp0.baidu.com:443
+[2022-11-17 09:22:20] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:22:20] [Info] Direct connect silkroad.csdn.net:443
+[2022-11-17 09:22:20] [Info] Direct connect kunpeng.csdn.net:443
+[2022-11-17 09:22:20] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 09:22:20] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:22:21] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:22:21] [Info] Direct connect www.csdn.net:443
+[2022-11-17 09:22:21] [Info] Direct connect www.csdn.net:443
+[2022-11-17 09:22:21] [Info] Direct connect g.alicdn.com:443
+[2022-11-17 09:22:21] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 09:22:21] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 09:22:21] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-11-17 09:22:21] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 09:22:21] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:22:21] [Info] Disconnect google.com:443
+[2022-11-17 09:22:21] [Info] Disconnect chrome.google.com:443
+[2022-11-17 09:22:21] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 09:22:21] [Info] Direct connect partner.googleadservices.com:443
+[2022-11-17 09:22:21] [Info] Direct connect adservice.google.com:443
+[2022-11-17 09:22:21] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 09:22:21] [Info] Connect fundingchoicesmessages.google.com:443
+[2022-11-17 09:22:21] [Info] Direct connect tpc.googlesyndication.com:443
+[2022-11-17 09:22:22] [Info] Direct connect www.googletagservices.com:443
+[2022-11-17 09:22:22] [Info] Connect odr.mookie1.com:443
+[2022-11-17 09:22:22] [Info] Connect us-u.openx.net:443
+[2022-11-17 09:22:22] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 09:22:22] [Info] Connect token.rubiconproject.com:443
+[2022-11-17 09:22:22] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:22:22] [Info] Connect cc.adingo.jp:443
+[2022-11-17 09:22:22] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-11-17 09:22:22] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:22:22] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:22:22] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:22:22] [Info] Connect dsum-sec.casalemedia.com:443
+[2022-11-17 09:22:22] [Info] Connect fundingchoicesmessages.google.com:443
+[2022-11-17 09:22:22] [Info] Direct connect statistic.csdn.net:443
+[2022-11-17 09:22:22] [Info] Direct connect zhannei-dm.csdn.net:443
+[2022-11-17 09:22:22] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:22:22] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:22:22] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:22:22] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:22:22] [Info] Connect odr.mookie1.com:443
+[2022-11-17 09:22:22] [Info] Connect id.rlcdn.com:443
+[2022-11-17 09:22:22] [Info] Connect image6.pubmatic.com:443
+[2022-11-17 09:22:22] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-11-17 09:22:22] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:22:22] [Info] Connect googlecm.hit.gemius.pl:443
+[2022-11-17 09:22:22] [Info] Connect sync.1rx.io:443
+[2022-11-17 09:22:22] [Info] Disconnect fundingchoicesmessages.google.com:443
+[2022-11-17 09:22:22] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 09:22:22] [Info] Direct connect tpc.googlesyndication.com:443
+[2022-11-17 09:22:22] [Info] Direct connect cm.g.doubleclick.net:443
+[2022-11-17 09:22:22] [Info] Connect ads.pubmatic.com:443
+[2022-11-17 09:22:22] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:22:22] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:22:22] [Info] Connect www.google.com:443
+[2022-11-17 09:22:22] [Info] Disconnect odr.mookie1.com:443
+[2022-11-17 09:22:23] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:22:23] [Info] Connect fundingchoicesmessages.google.com:443
+[2022-11-17 09:22:23] [Info] Disconnect www.google.com:443
+[2022-11-17 09:22:23] [Info] Connect www.google.com:443
+[2022-11-17 09:22:23] [Info] Disconnect googlecm.hit.gemius.pl:443
+[2022-11-17 09:22:23] [Info] Connect sync.targeting.unrulymedia.com:443
+[2022-11-17 09:22:23] [Info] Connect sync.targeting.unrulymedia.com:443
+[2022-11-17 09:22:23] [Info] Direct connect pagead2.googlesyndication.com:443
+[2022-11-17 09:22:23] [Info] Connect fundingchoicesmessages.google.com:443
+[2022-11-17 09:22:23] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:22:23] [Info] Disconnect dsum-sec.casalemedia.com:443
+[2022-11-17 09:22:23] [Info] Disconnect fundingchoicesmessages.google.com:443
+[2022-11-17 09:22:23] [Info] Disconnect sync.targeting.unrulymedia.com:443
+[2022-11-17 09:22:24] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:22:25] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-11-17 09:22:25] [Info] Connect pr-bh.ybp.yahoo.com:443
+[2022-11-17 09:22:26] [Info] Disconnect sync.1rx.io:443
+[2022-11-17 09:22:27] [Info] Disconnect sync.targeting.unrulymedia.com:443
+[2022-11-17 09:22:27] [Info] Disconnect cc.adingo.jp:443
+[2022-11-17 09:22:45] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 09:22:46] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:22:51] [Info] Direct connect bizapi.csdn.net:443
+[2022-11-17 09:22:51] [Info] Direct connect bizapi.csdn.net:443
+[2022-11-17 09:22:54] [Info] Disconnect token.rubiconproject.com:443
+[2022-11-17 09:23:05] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2022-11-17 09:23:26] [Info] Disconnect pr-bh.ybp.yahoo.com:443
+[2022-11-17 09:23:31] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:23:54] [Info] Connect chrome.google.com:443
+[2022-11-17 09:24:23] [Info] Disconnect ads.pubmatic.com:443
+[2022-11-17 09:25:22] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:25:30] [Info] Connect self.events.data.microsoft.com:443
+[2022-11-17 09:25:35] [Info] Disconnect ajax.googleapis.com:443
+[2022-11-17 09:25:36] [Info] Disconnect maps.googleapis.com:443
+[2022-11-17 09:25:37] [Info] Disconnect maps.gstatic.com:443
+[2022-11-17 09:25:38] [Info] Disconnect maps.googleapis.com:443
+[2022-11-17 09:25:42] [Info] Disconnect maps.gstatic.com:443
+[2022-11-17 09:25:42] [Info] Disconnect maps.gstatic.com:443
+[2022-11-17 09:25:42] [Info] Disconnect maps.gstatic.com:443
+[2022-11-17 09:25:43] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:25:43] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:25:43] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:25:43] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:25:43] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:25:43] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:25:43] [Info] Direct connect csdnimg.cn:443
+[2022-11-17 09:25:43] [Info] Direct connect dup.baidustatic.com:443
+[2022-11-17 09:25:44] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Direct connect silkroad.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect kunpeng.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-11-17 09:25:44] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 09:25:44] [Info] Direct connect statistic.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Direct connect sofire.bdstatic.com:443
+[2022-11-17 09:25:44] [Info] Direct connect pos.baidu.com:443
+[2022-11-17 09:25:44] [Info] Direct connect profile-avatar.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect gsp0.baidu.com:443
+[2022-11-17 09:25:44] [Info] Direct connect devpress-api.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect redisdatarecall.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:25:44] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Disconnect chrome.google.com:443
+[2022-11-17 09:25:44] [Info] Disconnect odr.mookie1.com:443
+[2022-11-17 09:25:44] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:25:44] [Info] Disconnect fundingchoicesmessages.google.com:443
+[2022-11-17 09:25:44] [Info] Disconnect fundingchoicesmessages.google.com:443
+[2022-11-17 09:25:44] [Info] Disconnect www.google.com:443
+[2022-11-17 09:25:44] [Info] Disconnect us-u.openx.net:443
+[2022-11-17 09:25:44] [Info] Disconnect id.rlcdn.com:443
+[2022-11-17 09:25:44] [Info] Disconnect image6.pubmatic.com:443
+[2022-11-17 09:25:44] [Info] Direct connect cpro.baidustatic.com:443
+[2022-11-17 09:25:44] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:25:44] [Info] Direct connect lupic.cdn.bcebos.com:443
+[2022-11-17 09:25:44] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:25:45] [Info] Direct connect zhannei-dm.csdn.net:443
+[2022-11-17 09:25:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:46] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:25:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:47] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:47] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:47] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:47] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:25:47] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:25:49] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:49] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:49] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:25:49] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:51] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:25:51] [Info] Direct connect beacon.tingyun.com:443
+[2022-11-17 09:25:52] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:26:09] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:26:14] [Info] Direct connect bizapi.csdn.net:443
+[2022-11-17 09:26:37] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:26:51] [Info] Connect chrome.google.com:443
+[2022-11-17 09:27:00] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:27:20] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-11-17 09:28:03] [Info] Direct connect oss.mail.qq.com:443
+[2022-11-17 09:28:15] [Info] Disconnect unpkg.com:443
+[2022-11-17 09:28:17] [Info] Direct connect cube.weixinbridge.com:443
+[2022-11-17 09:28:26] [Info] Direct connect googleads.g.doubleclick.net:443
+[2022-11-17 09:28:26] [Info] Direct connect g-api.csdn.net:443
+[2022-11-17 09:28:30] [Info] Connect outlook.office365.com:443
+[2022-11-17 09:28:30] [Info] Connect autodiscover.ut.cn:443
+[2022-11-17 09:28:31] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:28:40] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:28:46] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:29:05] [Info] Direct connect 182.254.116.117:80
+[2022-11-17 09:29:51] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-11-17 09:30:12] [Info] Disconnect outlook.office365.com:443
+[2022-11-17 09:30:12] [Info] Disconnect autodiscover.ut.cn:443
+[2022-11-17 09:30:48] [Info] Connect maps.googleapis.com:443
+[2022-11-17 09:30:48] [Info] Direct connect fonts.googleapis.com:443
+[2022-11-17 09:30:48] [Info] Direct connect fonts.googleapis.com:443
+[2022-11-17 09:30:48] [Info] Connect maps.gstatic.com:443
+[2022-11-17 09:31:26] [Info] Connect assets.msn.com:443
+[2022-11-17 09:31:26] [Info] Connect assets.msn.com:443
+[2022-11-17 09:32:04] [Info] Direct connect 182.254.118.119:80
+[2022-11-17 09:32:27] [Info] Disconnect assets.msn.com:443
+[2022-11-17 09:32:27] [Info] Disconnect assets.msn.com:443
+[2022-11-17 09:32:30] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:32:30] [Info] Direct connect ss0.baidu.com:443
+[2022-11-17 09:32:30] [Info] Direct connect ss1.baidu.com:443
+[2022-11-17 09:32:30] [Info] Direct connect ss2.baidu.com:443
+[2022-11-17 09:32:30] [Info] Direct connect ss3.baidu.com:443
+[2022-11-17 09:32:30] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:32:31] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 09:32:31] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 09:32:31] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 09:32:31] [Info] Direct connect t9.baidu.com:443
+[2022-11-17 09:32:31] [Info] Direct connect t7.baidu.com:443
+[2022-11-17 09:32:31] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:32:31] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:32:31] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 09:32:31] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 09:32:32] [Info] Direct connect hector.baidu.com:443
+[2022-11-17 09:32:32] [Info] Direct connect hector.baidu.com:443
+[2022-11-17 09:32:38] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 09:32:38] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:32:38] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 09:32:38] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 09:32:38] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:32:38] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:32:38] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:32:38] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:32:38] [Info] Direct connect csdnimg.cn:443
+[2022-11-17 09:32:38] [Info] Direct connect dup.baidustatic.com:443
+[2022-11-17 09:32:39] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-11-17 09:32:39] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:32:39] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:32:39] [Info] Direct connect img-home.csdnimg.cn:443
+[2022-11-17 09:32:39] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-11-17 09:32:39] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 09:32:39] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:39] [Info] Direct connect statistic.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect silkroad.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect kunpeng.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect pos.baidu.com:443
+[2022-11-17 09:32:39] [Info] Direct connect sofire.bdstatic.com:443
+[2022-11-17 09:32:39] [Info] Direct connect profile-avatar.csdnimg.cn:443
+[2022-11-17 09:32:39] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect devpress-api.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:32:39] [Info] Direct connect redisdatarecall.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:39] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:39] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:39] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:32:39] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:32:39] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:32:39] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:32:39] [Info] Direct connect lupic.cdn.bcebos.com:443
+[2022-11-17 09:32:40] [Info] Disconnect chrome.google.com:443
+[2022-11-17 09:32:40] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:32:41] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:41] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:42] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:42] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:43] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:32:44] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:44] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:44] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:44] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:44] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:44] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:46] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:46] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:32:49] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:49] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:32:49] [Info] Direct connect beacon.tingyun.com:443
+[2022-11-17 09:32:49] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:32:51] [Info] Connect chrome.google.com:443
+[2022-11-17 09:33:05] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:33:09] [Info] Direct connect bizapi.csdn.net:443
+[2022-11-17 09:33:32] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:33:33] [Info] Direct connect g-api.csdn.net:443
+[2022-11-17 09:33:34] [Info] Direct connect sofire.baidu.com:443
+[2022-11-17 09:33:34] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:33:34] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:33:50] [Info] Disconnect maps.googleapis.com:443
+[2022-11-17 09:33:50] [Info] Disconnect maps.gstatic.com:443
+[2022-11-17 09:34:35] [Info] Connect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:35:05] [Info] Connect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:35:31] [Info] Connect ecs.office.com:443
+[2022-11-17 09:35:43] [Info] Connect self.events.data.microsoft.com:443
+[2022-11-17 09:35:45] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:35:46] [Info] Disconnect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:36:39] [Info] Disconnect ecs.office.com:443
+[2022-11-17 09:36:43] [Info] Connect x1.c.lencr.org:80
+[2022-11-17 09:36:43] [Info] Direct connect ctldl.windowsupdate.com:80
+[2022-11-17 09:36:43] [Info] Direct connect ctldl.windowsupdate.com:80
+[2022-11-17 09:36:43] [Info] Disconnect x1.c.lencr.org:80
+[2022-11-17 09:36:44] [Info] Direct connect ctldl.windowsupdate.com:80
+[2022-11-17 09:36:55] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:36:55] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect csdnimg.cn:443
+[2022-11-17 09:36:56] [Info] Direct connect img-blog.csdnimg.cn:443
+[2022-11-17 09:36:56] [Info] Direct connect profile.csdnimg.cn:443
+[2022-11-17 09:36:56] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:36:56] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:36:56] [Info] Direct connect silkroad.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect kunpeng.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect msg.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect zhanzhang.toutiao.com:443
+[2022-11-17 09:36:56] [Info] Direct connect sp0.baidu.com:443
+[2022-11-17 09:36:56] [Info] Direct connect statistic.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:36:56] [Info] Direct connect pos.baidu.com:443
+[2022-11-17 09:36:56] [Info] Direct connect sofire.bdstatic.com:443
+[2022-11-17 09:36:56] [Info] Direct connect gsp0.baidu.com:443
+[2022-11-17 09:36:56] [Info] Direct connect devpress-api.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect redisdatarecall.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect blog.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:36:56] [Info] Direct connect kunyu.csdn.net:443
+[2022-11-17 09:36:56] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 09:36:56] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:36:56] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:36:56] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:36:56] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:36:56] [Info] Direct connect lupic.cdn.bcebos.com:443
+[2022-11-17 09:36:56] [Info] Direct connect wn.pos.baidu.com:443
+[2022-11-17 09:36:56] [Info] Direct connect zhannei-dm.csdn.net:443
+[2022-11-17 09:36:58] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:36:58] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:36:58] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:36:58] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:36:58] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:36:58] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:36:58] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:36:59] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:36:59] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:37:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:37:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:37:01] [Info] Direct connect kunpeng-sc.csdnimg.cn:443
+[2022-11-17 09:37:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:37:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 42.236.73.28:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2022-11-17 09:37:03] [Info] Direct connect beacon.tingyun.com:443
+[2022-11-17 09:37:04] [Info] Direct connect eclick.baidu.com:443
+[2022-11-17 09:37:10] [Info] Disconnect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:37:21] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:37:27] [Info] Direct connect bizapi.csdn.net:443
+[2022-11-17 09:37:33] [Info] Disconnect self.events.data.microsoft.com:443
+[2022-11-17 09:38:04] [Info] Direct connect oss.mail.qq.com:443
+[2022-11-17 09:38:12] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:39:35] [Info] Connect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:39:51] [Info] Connect google.com:443
+[2022-11-17 09:39:58] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:40:33] [Info] Direct connect assets.msn.cn:443
+[2022-11-17 09:40:34] [Info] Connect www.msn.cn:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect assets.msn.cn:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Connect img-s.msn.cn:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:35] [Info] Direct connect ts2.cn.mm.bing.net:443
+[2022-11-17 09:40:37] [Info] Disconnect img-s.msn.cn:443
+[2022-11-17 09:40:37] [Info] Connect img-s.msn.cn:443
+[2022-11-17 09:40:57] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 09:41:03] [Info] Direct connect 182.254.116.117:80
+[2022-11-17 09:41:05] [Info] Disconnect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 09:41:16] [Info] Disconnect img-s.msn.cn:443
+[2022-11-17 09:41:16] [Info] Disconnect www.msn.cn:443
+[2022-11-17 09:41:58] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 09:42:00] [Info] Disconnect v10.events.data.microsoft.com:443
+[2022-11-17 09:42:41] [Info] Direct connect localhost:62459
+[2022-11-17 09:42:41] [Info] Connect unpkg.com:443
+[2022-11-17 09:42:41] [Info] Connect unpkg.com:443
+[2022-11-17 09:42:41] [Info] Direct connect localhost:62459
+[2022-11-17 09:42:42] [Info] Connect maps.googleapis.com:443
+[2022-11-17 09:42:43] [Info] Connect maps.googleapis.com:443
+[2022-11-17 09:42:43] [Info] Disconnect unpkg.com:443
+[2022-11-17 09:42:43] [Info] Disconnect maps.googleapis.com:443
+[2022-11-17 09:42:43] [Info] Disconnect unpkg.com:443
+[2022-11-17 09:42:43] [Info] Disconnect maps.googleapis.com:443
+[2022-11-17 09:42:51] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-11-17 09:43:51] [Info] Disconnect google.com:443
+[2022-11-17 09:44:11] [Info] Connect smartscreen-prod.microsoft.com:443
+[2022-11-17 09:44:13] [Info] Connect smartscreen-prod.microsoft.com:443
+[2022-11-17 09:44:13] [Info] Disconnect smartscreen-prod.microsoft.com:443
+[2022-11-17 09:44:15] [Info] Disconnect smartscreen-prod.microsoft.com:443
+[2022-11-17 09:44:24] [Info] Direct connect mmbiz.qpic.cn:443
+[2022-11-17 09:44:24] [Info] Direct connect badjs.weixinbridge.com:443
+[2022-11-17 09:44:26] [Info] Direct connect mp.weixin.qq.com:443
+[2022-11-17 09:45:00] [Info] Connect edge.microsoft.com:443
+[2022-11-17 09:46:51] [Info] Direct connect event.csdn.net:443
+[2022-11-17 09:46:52] [Info] Direct connect beacon.tingyun.com:443
+[2022-11-17 09:46:52] [Info] Direct connect hm.baidu.com:443
+[2022-11-17 09:46:57] [Info] Direct connect g-api.csdn.net:443
+[2022-11-17 09:46:58] [Info] Direct connect g.csdnimg.cn:443
+[2022-11-17 09:47:09] [Info] Disconnect edge.microsoft.com:443
+[2022-11-17 09:48:05] [Info] Direct connect finder.video.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect finder.video.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect finder.video.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect finder.video.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect finder.video.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect finder.video.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect wx.qlogo.cn:443
+[2022-11-17 09:48:05] [Info] Direct connect dldir1v6.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect dldir1v6.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect dldir1v6.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect dldir1v6.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect wx.qlogo.cn:443
+[2022-11-17 09:48:05] [Info] Direct connect aladin.wxqcloud.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect finder.video.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect oss.mail.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect finder.video.qq.com:443
+[2022-11-17 09:48:05] [Info] Direct connect finder.video.qq.com:443
+[2022-11-17 09:48:06] [Info] Direct connect channels.weixin.qq.com:443
+[2022-11-17 09:48:51] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-11-17 09:49:00] [Info] Connect roaming.officeapps.live.com:443
+[2022-11-17 09:49:01] [Info] Disconnect roaming.officeapps.live.com:443
+[2022-11-17 09:49:06] [Info] Direct connect clientservices.googleapis.com:443
+[2022-11-17 09:49:17] [Info] Direct connect suggestion.baidu.com:443
+[2022-11-17 09:49:24] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:49:24] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:49:24] [Info] Direct connect www.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect dss0.bdstatic.com:443
+[2022-11-17 09:49:25] [Info] Direct connect t7.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect fc1tn.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect t8.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 09:49:25] [Info] Direct connect gimg3.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect t14.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect dss3.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect dss3.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect t15.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect fc3tn.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect gimg4.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect baikebcs.bdimg.com:443
+[2022-11-17 09:49:25] [Info] Direct connect t13.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect fc6tn.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2022-11-17 09:49:25] [Info] Direct connect cambrian-images.cdn.bcebos.com:443
+[2022-11-17 09:49:25] [Info] Direct connect search-operate.cdn.bcebos.com:443
+[2022-11-17 09:49:25] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect b.bdstatic.com:443
+[2022-11-17 09:49:25] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect vdposter.bdstatic.com:443
+[2022-11-17 09:49:25] [Info] Direct connect bkssl.bdimg.com:443
+[2022-11-17 09:49:25] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect hector.baidu.com:443
+[2022-11-17 09:49:25] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 09:49:27] [Info] Connect evoke-windowsservices-tas.msedge.net:443
+[2022-11-17 09:49:28] [Info] Direct connect pcrec.baidu.com:443
+[2022-11-17 09:49:28] [Info] Direct connect pss.bdstatic.com:443
+[2022-11-17 09:49:28] [Info] Direct connect dss1.bdstatic.com:443
+[2022-11-17 09:49:28] [Info] Connect www.github.com:443
+[2022-11-17 09:49:28] [Info] Connect www.github.com:443
+[2022-11-17 09:49:29] [Info] Connect github.com:443
+[2022-11-17 09:49:30] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:30] [Info] Connect avatars.githubusercontent.com:443
+[2022-11-17 09:49:30] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect www.github.com:443
+[2022-11-17 09:49:31] [Info] Disconnect www.github.com:443
+[2022-11-17 09:49:31] [Info] Disconnect chrome.google.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:49:31] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 09:49:31] [Info] Connect collector.github.com:443
+[2022-11-17 09:49:31] [Info] Connect api.github.com:443
+[2022-11-17 09:49:36] [Info] Connect octocaptcha.com:443
+[2022-11-17 09:49:37] [Info] Connect api.funcaptcha.com:443
+[2022-11-17 09:49:37] [Info] Disconnect api.funcaptcha.com:443
+[2022-11-17 09:49:37] [Info] Connect api.funcaptcha.com:443
+[2022-11-17 09:49:40] [Info] Connect api.funcaptcha.com:443
+[2022-11-17 09:49:46] [Info] Connect alive.github.com:443
+[2022-11-17 09:49:51] [Info] Connect chrome.google.com:443
+[2022-11-17 09:50:09] [Info] Connect edge.microsoft.com:443
+[2022-11-17 09:50:17] [Info] Connect business.bing.com:443
+[2022-11-17 09:50:21] [Info] Disconnect alive.github.com:443
+[2022-11-17 09:51:35] [Info] Disconnect evoke-windowsservices-tas.msedge.net:443
+[2022-11-17 09:51:37] [Info] Disconnect octocaptcha.com:443
+[2022-11-17 09:51:59] [Info] Disconnect collector.github.com:443
+[2022-11-17 09:52:09] [Info] Disconnect github.com:443
+[2022-11-17 09:52:17] [Info] Disconnect edge.microsoft.com:443
+[2022-11-17 09:52:21] [Info] Disconnect api.github.com:443
+[2022-11-17 09:52:24] [Info] Disconnect business.bing.com:443
+[2022-11-17 09:52:25] [Info] Direct connect 182.254.118.119:80
+[2022-11-17 09:53:52] [Info] Disconnect content-autofill.googleapis.com:443
+[2022-11-17 09:54:08] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-11-17 09:56:18] [Info] Disconnect api.funcaptcha.com:443
+[2022-11-17 09:56:21] [Info] Disconnect api.funcaptcha.com:443
+[2022-11-17 09:58:05] [Info] Direct connect oss.mail.qq.com:443
+[2022-11-17 09:59:55] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:59:56] [Info] Disconnect github.githubassets.com:443
+[2022-11-17 09:59:56] [Info] Disconnect avatars.githubusercontent.com:443
+[2022-11-17 10:01:26] [Info] Connect assets.msn.com:443
+[2022-11-17 10:01:26] [Info] Connect assets.msn.com:443
+[2022-11-17 10:02:27] [Info] Disconnect assets.msn.com:443
+[2022-11-17 10:02:27] [Info] Disconnect assets.msn.com:443
+[2022-11-17 10:02:29] [Info] Connect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 10:02:51] [Info] Direct connect safebrowsing.googleapis.com:443
+[2022-11-17 10:03:55] [Info] Connect smartscreen-prod.microsoft.com:443
+[2022-11-17 10:03:56] [Info] Connect smartscreen-prod.microsoft.com:443
+[2022-11-17 10:03:56] [Info] Disconnect smartscreen-prod.microsoft.com:443
+[2022-11-17 10:03:56] [Info] Disconnect smartscreen-prod.microsoft.com:443
+[2022-11-17 10:04:16] [Info] Direct connect ss0.baidu.com:443
+[2022-11-17 10:04:16] [Info] Direct connect ss1.baidu.com:443
+[2022-11-17 10:04:16] [Info] Direct connect ss2.baidu.com:443
+[2022-11-17 10:04:16] [Info] Direct connect ss3.baidu.com:443
+[2022-11-17 10:04:16] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:16] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:17] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:25] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect t8.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect t9.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect t13.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect t15.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect gimg4.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect t14.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect t7.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect fclick.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect ug.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect hector.baidu.com:443
+[2022-11-17 10:04:31] [Info] Direct connect hector.baidu.com:443
+[2022-11-17 10:04:31] [Info] Disconnect array806.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 10:04:33] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:33] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:33] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:33] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:33] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:34] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:35] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 10:04:35] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 10:04:35] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 10:04:35] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 10:04:35] [Info] Direct connect ms.bdimg.com:443
+[2022-11-17 10:04:35] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 10:04:36] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:36] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:36] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:40] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:04:45] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 10:04:56] [Info] Direct connect hpd.baidu.com:443
+[2022-11-17 10:05:00] [Info] Connect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 10:06:04] [Info] Connect www.bing.com:443
+[2022-11-17 10:06:04] [Info] Connect cxcs.microsoft.net:443
+[2022-11-17 10:07:08] [Info] Disconnect array812.prod.do.dsp.mp.microsoft.com:443
+[2022-11-17 10:12:30] ShadowsocksR started on port 1080
+[2022-11-17 10:12:30] [Info] Direct connect assets.msn.cn:443
+[2022-11-17 10:12:30] [Info] Connect edge.microsoft.com:443
+[2022-11-17 10:12:30] [Info] Direct connect assets.msn.cn:443
+[2022-11-17 10:12:30] [Info] Connect settings-win.data.microsoft.com:443
+[2022-11-17 10:12:30] [Info] Connect login.microsoftonline.com:443
+[2022-11-17 10:12:30] [Info] Connect edge.microsoft.com:443
+[2022-11-17 10:12:31] [Info] Direct connect assets.msn.cn:443
+[2022-11-17 10:12:31] [Info] Connect sockboom.me:443
+[2022-11-17 10:12:32] [Info] Disconnect login.microsoftonline.com:443
+[2022-11-17 10:12:33] [Info] Disconnect settings-win.data.microsoft.com:443
+[2022-11-17 10:12:37] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:12:37] [Info] Direct connect www.baidu.com:443
+[2022-11-17 10:12:38] [Info] Direct connect hectorstatic.baidu.com:443
+[2022-11-17 10:12:38] [Info] Direct connect sp1.baidu.com:443
+[2022-11-17 10:12:38] [Info] Direct connect passport.baidu.com:443
+[2022-11-17 10:12:39] [Info] Connect accounts.google.com:443
+[2022-11-17 10:12:40] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 10:12:41] [Error] connect to update server error
+[2022-11-17 10:12:41] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-17 10:12:44] [Info] Disconnect accounts.google.com:443
+[2022-11-17 10:12:44] [Info] Connect accounts.google.com:443
+[2022-11-17 10:12:44] [Info] Disconnect accounts.google.com:443
+[2022-11-17 10:52:02] ShadowsocksR started on port 1080
+[2022-11-17 10:52:02] [Info] Connect sockboom.me:443
+[2022-11-17 10:52:08] [Info] Connect beacons.gcp.gvt2.com:443
+[2022-11-17 10:52:12] [Info] Connect raw.githubusercontent.com:443
+[2022-11-17 10:52:12] [Error] connect to update server error
+[2022-11-17 10:52:13] [Info] Disconnect raw.githubusercontent.com:443
+[2022-11-17 10:52:20] [Info] Connect content-autofill.googleapis.com:443
+[2022-11-17 10:52:31] [Info] Connect mrodevicemgr.officeapps.live.com:443
+[2022-11-17 10:52:33] [Info] Connect fa000000069.resources.office.net:443
+[2022-11-17 10:52:33] [Info] Connect fa000000069.resources.office.net:443
+[2022-11-17 10:52:33] [Info] Disconnect fa000000069.resources.office.net:443
+[2022-11-17 10:52:54] [Info] Connect v10.events.data.microsoft.com:443
+[2022-11-17 10:52:55] [Info] Disconnect v10.events.data.microsoft.com:443
